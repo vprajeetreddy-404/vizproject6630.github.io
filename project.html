@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Group 2 - Visualization Project</title>
+
+    <link rel="icon" href="/data/favicon.png">
+
+    <link rel="stylesheet" href="styles.css" />
+
+    <script src="https://d3js.org/d3.v7.min.js"></script>
+    <script src="https://d3js.org/d3-geo-projection.v4.js"></script>
+    <script src="https://d3js.org/topojson.v3.js"></script>
+
+   
+    <script src="js/map.js"></script>
+    <script src="js/script.js"></script>
+</head>
+
+<body>
+    <div class="header">
+        <h1>Visualization of Petrol Stats by Country</h1>
+    </div>
+
+    <div id="content">
+
+        <div class="toolbox">
+            <span>
+                <label>Metric:</label>
+                <select id="metric">
+                  <option value="World Share">World Share</option>
+                  <option selected value="Price Per Gallon (USD)">Price</option>
+                  <option value="Yearly Gallons Per Capita">Yearly Gallons Per Capita</option>
+                  <option value="GDP Per Capita ( USD )">GDP Per Capita ( USD )</option>
+                </select>
+              </span>
+              <!-- <span>
+                <label>Unit</label>
+                <select id="unit">
+                </select>
+              </span>
+        
+              <span>
+                <label>Currency</label>
+                <select id="currency">
+                </select>
+              </span> -->
+
+              <button id="clear-button">Reset</button>
+
+        </div>
+        
+        <div id="Barchart-div"></div>
+
+                <line></line>
+            </g>
+        </svg>
+
+        <div id="mapDiv">
+        <svg id="map">
+            <g id="graticules"></g>
+            <g id="countries"></g>
+            <g id="legend">
+              <defs>
+                  <linearGradient id="color-gradient">
+                  </linearGradient> 
+                </defs>
+          </g>
+          <g id="start"></g>
+          <g id="end"></g>
+          
+        </svg>
+<!-- 
+        <svg id="legend">
+          <defs>
+            <linearGradient id="gradient">
+              <stop offset="0%" style="stop-color:#ffffff;stop-opacity:1"></stop>
+              <stop offset="30%" style="stop-color:#FDC8B2;stop-opacity:1"></stop>
+              <stop offset="60%" style="stop-color:#FB8061;stop-opacity:1"></stop>
+              <stop offset="100%" style="stop-color:#AC1117;stop-opacity:1"></stop>
+            </linearGradient>
+          </defs>
+        </svg> -->
+
+        <!-- <button id="clear-button">Clear Selected Countries</button> -->
+        </div>
+        <div id="Linechart-div">
+
+        </div>
+        <div id="table">
+
+        </div>
+
+
+    
+</body>
+<script src="js\barchart.js"></script>
+<script src="js\map.js"></script>
+<script src="js\linechart.js"></script>
+<script src="js\table.js"></script>
+
+
+</html>

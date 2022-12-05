@@ -1,0 +1,2713 @@
+,Country Name,Country ISO Code,year,pump price
+0,Aruba,ABW,1998,0.54
+1,Africa Eastern and Southern,AFE,1998,0.45
+2,Afghanistan,AFG,1998,0.19
+3,Africa Western and Central,AFW,1998,0.68
+4,Angola,AGO,1998,0.38
+5,Albania,ALB,1998,0.86
+6,Andorra,AND,1998,0.34299999999999997
+7,Arab World,ARB,1998,0.31
+8,United Arab Emirates,ARE,1998,0.23
+9,Argentina,ARG,1998,0.94
+10,Armenia,ARM,1998,0.49
+11,Australia,AUS,1998,0.46
+12,Austria,AUT,1998,1.04
+13,Azerbaijan,AZE,1998,0.46
+14,Burundi,BDI,1998,0.72
+15,Belgium,BEL,1998,1.12
+16,Benin,BEN,1998,0.39
+17,Burkina Faso,BFA,1998,0.68
+18,Bangladesh,BGD,1998,0.47
+19,Bulgaria,BGR,1998,0.66
+20,Bahrain,BHR,1998,0.26
+21,"Bahamas, The",BHS,1998,0.311
+22,Bosnia and Herzegovina,BIH,1998,0.66
+23,Belarus,BLR,1998,0.34
+24,Belize,BLZ,1998,0.87
+25,Bolivia,BOL,1998,0.53
+26,Brazil,BRA,1998,0.8
+27,Barbados,BRB,1998,0.72
+28,Brunei Darussalam,BRN,1998,0.34
+29,Bhutan,BTN,1998,0.59
+30,Botswana,BWA,1998,0.31
+31,Central African Republic,CAF,1998,0.81
+32,Canada,CAN,1998,0.41
+33,Central Europe and the Baltics,CEB,1998,0.61
+34,Switzerland,CHE,1998,0.86
+35,Chile,CHL,1998,0.49
+36,China,CHN,1998,0.28
+37,Cote d'Ivoire,CIV,1998,0.74
+38,Cameroon,CMR,1998,0.64
+39,"Congo, Dem. Rep.",COD,1998,0.5
+40,"Congo, Rep.",COG,1998,0.72
+41,Colombia,COL,1998,0.24
+42,Cabo Verde,CPV,1998,0.81
+43,Costa Rica,CRI,1998,0.39
+44,Caribbean small states,CSS,1998,0.42700000000000005
+45,Cuba,CUB,1998,0.5
+46,Cyprus,CYP,1998,0.78
+47,Czech Republic,CZE,1998,0.72
+48,Germany,DEU,1998,0.96
+49,Djibouti,DJI,1998,0.69
+50,Denmark,DNK,1998,1.05
+51,Dominican Republic,DOM,1998,0.4
+52,Algeria,DZA,1998,0.31
+53,East Asia & Pacific (excluding high income),EAP,1998,0.31
+54,Early-demographic dividend,EAR,1998,0.41
+55,East Asia & Pacific,EAS,1998,0.41
+56,Europe & Central Asia (excluding high income),ECA,1998,0.49
+57,Europe & Central Asia,ECS,1998,0.67
+58,Ecuador,ECU,1998,0.38
+59,"Egypt, Arab Rep.",EGY,1998,0.29
+60,Euro area,EMU,1998,0.84
+61,Eritrea,ERI,1998,0.37
+62,Spain,ESP,1998,0.84
+63,Estonia,EST,1998,0.45
+64,Ethiopia,ETH,1998,0.36
+65,European Union,EUU,1998,0.78
+66,Fragile and conflict affected situations,FCS,1998,0.49
+67,Finland,FIN,1998,1.17
+68,Fiji,FJI,1998,0.5
+69,France,FRA,1998,1.11
+70,Gabon,GAB,1998,0.63
+71,United Kingdom,GBR,1998,1.11
+72,Georgia,GEO,1998,0.46
+73,Ghana,GHA,1998,0.32
+74,Gibraltar,GIB,1998,0.84
+75,Guinea,GIN,1998,0.68
+76,"Gambia, The",GMB,1998,0.83
+77,Greece,GRC,1998,0.65
+78,Grenada,GRD,1998,0.54
+79,Greenland,GRL,1998,0.001
+80,Guatemala,GTM,1998,0.41
+81,Guyana,GUY,1998,0.3
+82,High income,HIC,1998,0.72
+83,"Hong Kong SAR, China",HKG,1998,1.36
+84,Honduras,HND,1998,0.5
+85,Heavily indebted poor countries (HIPC),HPC,1998,0.59
+86,Croatia,HRV,1998,0.67
+87,Haiti,HTI,1998,0.59
+88,Hungary,HUN,1998,0.72
+89,IBRD only,IBD,1998,0.42
+90,IDA & IBRD total,IBT,1998,0.47
+91,IDA total,IDA,1998,0.51
+92,IDA blend,IDB,1998,0.5
+93,Indonesia,IDN,1998,0.16
+94,IDA only,IDX,1998,0.52
+95,India,IND,1998,0.56
+96,Ireland,IRL,1998,1.02
+97,"Iran, Islamic Rep.",IRN,1998,0.08
+98,Iraq,IRQ,1998,0.43
+99,Iceland,ISL,1998,1.12
+100,Israel,ISR,1998,0.86
+101,Italy,ITA,1998,1.19
+102,Jamaica,JAM,1998,0.37
+103,Jordan,JOR,1998,0.42
+104,Japan,JPN,1998,1.02
+105,Kazakhstan,KAZ,1998,0.3
+106,Kenya,KEN,1998,0.7
+107,Kyrgyz Republic,KGZ,1998,0.47
+108,Cambodia,KHM,1998,0.47
+109,"Korea, Rep.",KOR,1998,0.93
+110,Kuwait,KWT,1998,0.17
+111,Latin America & Caribbean (excluding high income),LAC,1998,0.5
+112,Lao PDR,LAO,1998,0.31
+113,Lebanon,LBN,1998,0.35
+114,Liberia,LBR,1998,0.56
+115,Libya,LBY,1998,0.22
+116,Latin America & Caribbean,LCN,1998,0.49
+117,Least developed countries: UN classification,LDC,1998,0.57
+118,Low income,LIC,1998,0.61
+119,Liechtenstein,LIE,1998,0.85
+120,Sri Lanka,LKA,1998,0.84
+121,Lower middle income,LMC,1998,0.47
+122,Low & middle income,LMY,1998,0.47
+123,Lesotho,LSO,1998,0.39
+124,Late-demographic dividend,LTE,1998,0.47
+125,Lithuania,LTU,1998,0.51
+126,Luxembourg,LUX,1998,0.78
+127,Latvia,LVA,1998,0.55
+128,Morocco,MAR,1998,0.79
+129,Monaco,MCO,1998,0.88
+130,Moldova,MDA,1998,0.33
+131,Madagascar,MDG,1998,0.47
+132,Maldives,MDV,1998,0.61
+133,Middle East & North Africa,MEA,1998,0.31
+134,Mexico,MEX,1998,0.36
+135,Middle income,MIC,1998,0.465
+136,North Macedonia,MKD,1998,0.7
+137,Mali,MLI,1998,0.77
+138,Malta,MLT,1998,0.77
+139,Myanmar,MMR,1998,0.13
+140,Middle East & North Africa (excluding high income),MNA,1998,0.35
+141,Montenegro,MNE,1998,0.61
+142,Mongolia,MNG,1998,0.23
+143,Mozambique,MOZ,1998,0.55
+144,Mauritania,MRT,1998,0.59
+145,Mauritius,MUS,1998,0.34
+146,Malawi,MWI,1998,0.51
+147,Malaysia,MYS,1998,0.28
+148,North America,NAC,1998,0.365
+149,Namibia,NAM,1998,0.38
+150,Niger,NER,1998,0.76
+151,Nigeria,NGA,1998,0.13
+152,Nicaragua,NIC,1998,0.47
+153,Netherlands,NLD,1998,1.14
+154,Norway,NOR,1998,1.21
+155,Nepal,NPL,1998,0.59
+156,New Zealand,NZL,1998,0.64
+157,OECD members,OED,1998,0.84
+158,Oman,OMN,1998,0.31
+159,Other small states,OSS,1998,0.52
+160,Pakistan,PAK,1998,0.46
+161,Panama,PAN,1998,0.41
+162,Peru,PER,1998,0.55
+163,Philippines,PHL,1998,0.34
+164,Papua New Guinea,PNG,1998,0.41
+165,Poland,POL,1998,0.54
+166,Pre-demographic dividend,PRE,1998,0.635
+167,"Korea, Dem. People's Rep.",PRK,1998,0.73
+168,Portugal,PRT,1998,1.02
+169,Paraguay,PRY,1998,0.47
+170,West Bank and Gaza,PSE,1998,0.86
+171,Post-demographic dividend,PST,1998,0.775
+172,Qatar,QAT,1998,0.16
+173,Romania,ROU,1998,0.53
+174,Russian Federation,RUS,1998,0.28
+175,Rwanda,RWA,1998,0.72
+176,South Asia,SAS,1998,0.575
+177,Saudi Arabia,SAU,1998,0.16
+178,Sudan,SDN,1998,0.33
+179,Senegal,SEN,1998,0.71
+180,Singapore,SGP,1998,0.72
+181,Sierra Leone,SLE,1998,0.61
+182,El Salvador,SLV,1998,0.54
+183,Somalia,SOM,1998,0.41
+184,Serbia,SRB,1998,0.61
+185,Sub-Saharan Africa (excluding high income),SSA,1998,0.59
+186,South Sudan,SSD,1998,1.01
+187,Sub-Saharan Africa,SSF,1998,0.59
+188,Small states,SST,1998,0.436
+189,Suriname,SUR,1998,0.56
+190,Slovak Republic,SVK,1998,0.61
+191,Slovenia,SVN,1998,0.66
+192,Sweden,SWE,1998,1.09
+193,Eswatini,SWZ,1998,0.37
+194,Syrian Arab Republic,SYR,1998,0.45
+195,Chad,TCD,1998,0.7
+196,East Asia & Pacific (IDA & IBRD countries),TEA,1998,0.305
+197,Europe & Central Asia (IDA & IBRD countries),TEC,1998,0.51
+198,Togo,TGO,1998,0.42
+199,Thailand,THA,1998,0.3
+200,Tajikistan,TJK,1998,0.26
+201,Turkmenistan,TKM,1998,0.09
+202,Latin America & the Caribbean (IDA & IBRD countries),TLA,1998,0.47
+203,Timor-Leste,TLS,1998,0.43
+204,Middle East & North Africa (IDA & IBRD countries),TMN,1998,0.33
+205,South Asia (IDA & IBRD),TSA,1998,0.575
+206,Sub-Saharan Africa (IDA & IBRD countries),TSS,1998,0.59
+207,Trinidad and Tobago,TTO,1998,0.39
+208,Tunisia,TUN,1998,0.6
+209,Turkiye,TUR,1998,0.78
+210,Tanzania,TZA,1998,0.63
+211,Uganda,UGA,1998,0.86
+212,Ukraine,UKR,1998,0.49
+213,Upper middle income,UMC,1998,0.46
+214,Uruguay,URY,1998,0.9
+215,United States,USA,1998,0.32
+216,Uzbekistan,UZB,1998,0.11
+217,"Venezuela, RB",VEN,1998,0.14
+218,British Virgin Islands,VGB,1998,0.72
+219,Vietnam,VNM,1998,0.35
+220,World,WLD,1998,0.54
+221,Kosovo,XKX,1998,0.61
+222,"Yemen, Rep.",YEM,1998,0.26
+223,South Africa,ZAF,1998,0.43
+224,Zambia,ZMB,1998,0.53
+225,Zimbabwe,ZWE,1998,0.26
+226,Aruba,ABW,2000,0.54
+227,Africa Eastern and Southern,AFE,2000,0.56
+228,Afghanistan,AFG,2000,0.27
+229,Africa Western and Central,AFW,2000,0.64
+230,Angola,AGO,2000,0.3
+231,Albania,ALB,2000,0.57
+232,Andorra,AND,2000,0.43
+233,Arab World,ARB,2000,0.28
+234,United Arab Emirates,ARE,2000,0.25
+235,Argentina,ARG,2000,1.07
+236,Armenia,ARM,2000,0.55
+237,Australia,AUS,2000,0.57
+238,Austria,AUT,2000,0.82
+239,Azerbaijan,AZE,2000,0.39
+240,Burundi,BDI,2000,1.01
+241,Belgium,BEL,2000,0.96
+242,Benin,BEN,2000,0.48
+243,Burkina Faso,BFA,2000,0.68
+244,Bangladesh,BGD,2000,0.46
+245,Bulgaria,BGR,2000,0.7
+246,Bahrain,BHR,2000,0.27
+247,"Bahamas, The",BHS,2000,0.42
+248,Bosnia and Herzegovina,BIH,2000,0.68
+249,Belarus,BLR,2000,0.55
+250,Belize,BLZ,2000,0.95
+251,Bolivia,BOL,2000,0.8
+252,Brazil,BRA,2000,0.92
+253,Barbados,BRB,2000,0.95
+254,Brunei Darussalam,BRN,2000,0.31
+255,Bhutan,BTN,2000,0.58
+256,Botswana,BWA,2000,0.42
+257,Central African Republic,CAF,2000,0.9209999999999999
+258,Canada,CAN,2000,0.58
+259,Central Europe and the Baltics,CEB,2000,0.69
+260,Switzerland,CHE,2000,0.78
+261,Chile,CHL,2000,0.64
+262,China,CHN,2000,0.4
+263,Cote d'Ivoire,CIV,2000,0.76
+264,Cameroon,CMR,2000,0.56
+265,"Congo, Dem. Rep.",COD,2000,1.0
+266,"Congo, Rep.",COG,2000,0.53
+267,Colombia,COL,2000,0.49
+268,Cabo Verde,CPV,2000,0.59
+269,Costa Rica,CRI,2000,0.55
+270,Caribbean small states,CSS,2000,0.56
+271,Cuba,CUB,2000,0.631
+272,Cyprus,CYP,2000,0.57
+273,Czech Republic,CZE,2000,0.77
+274,Germany,DEU,2000,0.91
+275,Djibouti,DJI,2000,0.88
+276,Denmark,DNK,2000,1.01
+277,Dominican Republic,DOM,2000,0.71
+278,Algeria,DZA,2000,0.27
+279,East Asia & Pacific (excluding high income),EAP,2000,0.385
+280,Early-demographic dividend,EAR,2000,0.53
+281,East Asia & Pacific,EAS,2000,0.445
+282,Europe & Central Asia (excluding high income),ECA,2000,0.55
+283,Europe & Central Asia,ECS,2000,0.72
+284,Ecuador,ECU,2000,0.31
+285,"Egypt, Arab Rep.",EGY,2000,0.26
+286,Euro area,EMU,2000,0.75
+287,Eritrea,ERI,2000,0.56
+288,Spain,ESP,2000,0.73
+289,Estonia,EST,2000,0.6
+290,Ethiopia,ETH,2000,0.46
+291,European Union,EUU,2000,0.76
+292,Fragile and conflict affected situations,FCS,2000,0.555
+293,Finland,FIN,2000,1.06
+294,Fiji,FJI,2000,0.66
+295,France,FRA,2000,0.99
+296,Gabon,GAB,2000,0.53
+297,United Kingdom,GBR,2000,1.17
+298,Georgia,GEO,2000,0.51
+299,Ghana,GHA,2000,0.2
+300,Gibraltar,GIB,2000,0.73
+301,Guinea,GIN,2000,0.85
+302,"Gambia, The",GMB,2000,0.64
+303,Greece,GRC,2000,0.72
+304,Grenada,GRD,2000,0.54
+305,Greenland,GRL,2000,0.001
+306,Guatemala,GTM,2000,0.53
+307,Guyana,GUY,2000,0.37
+308,High income,HIC,2000,0.76
+309,"Hong Kong SAR, China",HKG,2000,1.46
+310,Honduras,HND,2000,0.62
+311,Heavily indebted poor countries (HIPC),HPC,2000,0.675
+312,Croatia,HRV,2000,0.76
+313,Haiti,HTI,2000,0.64
+314,Hungary,HUN,2000,0.81
+315,IBRD only,IBD,2000,0.53
+316,IDA & IBRD total,IBT,2000,0.555
+317,IDA total,IDA,2000,0.58
+318,IDA blend,IDB,2000,0.535
+319,Indonesia,IDN,2000,0.17
+320,IDA only,IDX,2000,0.62
+321,India,IND,2000,0.6
+322,Ireland,IRL,2000,0.72
+323,"Iran, Islamic Rep.",IRN,2000,0.05
+324,Iraq,IRQ,2000,0.44
+325,Iceland,ISL,2000,1.05
+326,Israel,ISR,2000,1.14
+327,Italy,ITA,2000,0.97
+328,Jamaica,JAM,2000,0.62
+329,Jordan,JOR,2000,0.45
+330,Japan,JPN,2000,1.06
+331,Kazakhstan,KAZ,2000,0.36
+332,Kenya,KEN,2000,0.71
+333,Kyrgyz Republic,KGZ,2000,0.44
+334,Cambodia,KHM,2000,0.61
+335,"Korea, Rep.",KOR,2000,0.92
+336,Kuwait,KWT,2000,0.21
+337,Latin America & Caribbean (excluding high income),LAC,2000,0.62
+338,Lao PDR,LAO,2000,0.41
+339,Lebanon,LBN,2000,0.53
+340,Liberia,LBR,2000,0.55
+341,Libya,LBY,2000,0.25
+342,Latin America & Caribbean,LCN,2000,0.62
+343,Least developed countries: UN classification,LDC,2000,0.64
+344,Low income,LIC,2000,0.68
+345,Liechtenstein,LIE,2000,0.81
+346,Sri Lanka,LKA,2000,0.66
+347,Lower middle income,LMC,2000,0.53
+348,Low & middle income,LMY,2000,0.55
+349,Lesotho,LSO,2000,0.5
+350,Late-demographic dividend,LTE,2000,0.54
+351,Lithuania,LTU,2000,0.66
+352,Luxembourg,LUX,2000,0.75
+353,Latvia,LVA,2000,0.67
+354,Morocco,MAR,2000,0.82
+355,Monaco,MCO,2000,0.98
+356,Moldova,MDA,2000,0.51
+357,Madagascar,MDG,2000,0.76
+358,Maldives,MDV,2000,0.68
+359,Middle East & North Africa,MEA,2000,0.29
+360,Mexico,MEX,2000,0.61
+361,Middle income,MIC,2000,0.53
+362,North Macedonia,MKD,2000,0.76
+363,Mali,MLI,2000,0.7
+364,Malta,MLT,2000,0.81
+365,Myanmar,MMR,2000,0.33
+366,Middle East & North Africa (excluding high income),MNA,2000,0.44
+367,Montenegro,MNE,2000,0.56
+368,Mongolia,MNG,2000,0.38
+369,Mozambique,MOZ,2000,0.56
+370,Mauritania,MRT,2000,0.67
+371,Mauritius,MUS,2000,0.55
+372,Malawi,MWI,2000,0.69
+373,Malaysia,MYS,2000,0.28
+374,North America,NAC,2000,0.525
+375,Namibia,NAM,2000,0.47
+376,Niger,NER,2000,0.68
+377,Nigeria,NGA,2000,0.27
+378,Nicaragua,NIC,2000,0.62
+379,Netherlands,NLD,2000,1.03
+380,Norway,NOR,2000,1.19
+381,Nepal,NPL,2000,0.63
+382,New Zealand,NZL,2000,0.48
+383,OECD members,OED,2000,0.77
+384,Oman,OMN,2000,0.31
+385,Other small states,OSS,2000,0.56
+386,Pakistan,PAK,2000,0.53
+387,Panama,PAN,2000,0.53
+388,Peru,PER,2000,0.8
+389,Philippines,PHL,2000,0.37
+390,Papua New Guinea,PNG,2000,0.53
+391,Poland,POL,2000,0.76
+392,Pre-demographic dividend,PRE,2000,0.68
+393,"Korea, Dem. People's Rep.",PRK,2000,0.55
+394,Portugal,PRT,2000,0.77
+395,Paraguay,PRY,2000,0.72
+396,West Bank and Gaza,PSE,2000,1.08
+397,Post-demographic dividend,PST,2000,0.795
+398,Qatar,QAT,2000,0.19
+399,Romania,ROU,2000,0.46
+400,Russian Federation,RUS,2000,0.33
+401,Rwanda,RWA,2000,0.89
+402,South Asia,SAS,2000,0.59
+403,Saudi Arabia,SAU,2000,0.24
+404,Sudan,SDN,2000,0.28
+405,Senegal,SEN,2000,0.73
+406,Singapore,SGP,2000,0.84
+407,Sierra Leone,SLE,2000,0.55
+408,El Salvador,SLV,2000,0.67
+409,Somalia,SOM,2000,0.44
+410,Serbia,SRB,2000,0.56
+411,Sub-Saharan Africa (excluding high income),SSA,2000,0.615
+412,South Sudan,SSD,2000,1.33
+413,Sub-Saharan Africa,SSF,2000,0.615
+414,Small states,SST,2000,0.551
+415,Suriname,SUR,2000,0.56
+416,Slovak Republic,SVK,2000,0.69
+417,Slovenia,SVN,2000,0.63
+418,Sweden,SWE,2000,0.94
+419,Eswatini,SWZ,2000,0.47
+420,Syrian Arab Republic,SYR,2000,0.44
+421,Chad,TCD,2000,0.68
+422,East Asia & Pacific (IDA & IBRD countries),TEA,2000,0.41200000000000003
+423,Europe & Central Asia (IDA & IBRD countries),TEC,2000,0.55
+424,Togo,TGO,2000,0.48
+425,Thailand,THA,2000,0.39
+426,Tajikistan,TJK,2000,0.45
+427,Turkmenistan,TKM,2000,0.02
+428,Latin America & the Caribbean (IDA & IBRD countries),TLA,2000,0.62
+429,Timor-Leste,TLS,2000,0.46
+430,Middle East & North Africa (IDA & IBRD countries),TMN,2000,0.355
+431,South Asia (IDA & IBRD),TSA,2000,0.59
+432,Sub-Saharan Africa (IDA & IBRD countries),TSS,2000,0.615
+433,Trinidad and Tobago,TTO,2000,0.39
+434,Tunisia,TUN,2000,0.49
+435,Turkiye,TUR,2000,0.88
+436,Tanzania,TZA,2000,0.75
+437,Uganda,UGA,2000,0.86
+438,Ukraine,UKR,2000,0.37
+439,Upper middle income,UMC,2000,0.545
+440,Uruguay,URY,2000,1.19
+441,United States,USA,2000,0.47
+442,Uzbekistan,UZB,2000,0.14
+443,"Venezuela, RB",VEN,2000,0.12
+444,British Virgin Islands,VGB,2000,0.95
+445,Vietnam,VNM,2000,0.38
+446,World,WLD,2000,0.6
+447,Kosovo,XKX,2000,0.56
+448,"Yemen, Rep.",YEM,2000,0.21
+449,South Africa,ZAF,2000,0.5
+450,Zambia,ZMB,2000,0.63
+451,Zimbabwe,ZWE,2000,0.85
+452,Aruba,ABW,2002,0.54
+453,Africa Eastern and Southern,AFE,2002,0.52
+454,Afghanistan,AFG,2002,0.34
+455,Africa Western and Central,AFW,2002,0.685
+456,Angola,AGO,2002,0.19
+457,Albania,ALB,2002,0.8
+458,Andorra,AND,2002,0.51
+459,Arab World,ARB,2002,0.295
+460,United Arab Emirates,ARE,2002,0.29
+461,Argentina,ARG,2002,0.63
+462,Armenia,ARM,2002,0.42
+463,Australia,AUS,2002,0.5
+464,Austria,AUT,2002,0.84
+465,Azerbaijan,AZE,2002,0.37
+466,Burundi,BDI,2002,0.58
+467,Belgium,BEL,2002,1.04
+468,Benin,BEN,2002,0.54
+469,Burkina Faso,BFA,2002,0.83
+470,Bangladesh,BGD,2002,0.52
+471,Bulgaria,BGR,2002,0.68
+472,Bahrain,BHR,2002,0.27
+473,"Bahamas, The",BHS,2002,0.53
+474,Bosnia and Herzegovina,BIH,2002,0.74
+475,Belarus,BLR,2002,0.5
+476,Belize,BLZ,2002,1.01
+477,Bolivia,BOL,2002,0.69
+478,Brazil,BRA,2002,0.55
+479,Barbados,BRB,2002,0.66
+480,Brunei Darussalam,BRN,2002,0.3
+481,Bhutan,BTN,2002,0.591
+482,Botswana,BWA,2002,0.41
+483,Central African Republic,CAF,2002,1.0
+484,Canada,CAN,2002,0.51
+485,Central Europe and the Baltics,CEB,2002,0.74
+486,Switzerland,CHE,2002,0.89
+487,Chile,CHL,2002,0.58
+488,China,CHN,2002,0.42
+489,Cote d'Ivoire,CIV,2002,0.85
+490,Cameroon,CMR,2002,0.68
+491,"Congo, Dem. Rep.",COD,2002,0.7
+492,"Congo, Rep.",COG,2002,0.69
+493,Colombia,COL,2002,0.44
+494,Cabo Verde,CPV,2002,0.711
+495,Costa Rica,CRI,2002,0.64
+496,Caribbean small states,CSS,2002,0.633
+497,Cuba,CUB,2002,0.9
+498,Cyprus,CYP,2002,0.83
+499,Czech Republic,CZE,2002,0.81
+500,Germany,DEU,2002,1.03
+501,Djibouti,DJI,2002,0.91
+502,Denmark,DNK,2002,1.09
+503,Dominican Republic,DOM,2002,0.49
+504,Algeria,DZA,2002,0.22
+505,East Asia & Pacific (excluding high income),EAP,2002,0.44
+506,Early-demographic dividend,EAR,2002,0.515
+507,East Asia & Pacific,EAS,2002,0.42
+508,Europe & Central Asia (excluding high income),ECA,2002,0.48
+509,Europe & Central Asia,ECS,2002,0.8
+510,Ecuador,ECU,2002,0.55
+511,"Egypt, Arab Rep.",EGY,2002,0.19
+512,Euro area,EMU,2002,0.84
+513,Eritrea,ERI,2002,0.36
+514,Spain,ESP,2002,0.83
+515,Estonia,EST,2002,0.58
+516,Ethiopia,ETH,2002,0.52
+517,European Union,EUU,2002,0.84
+518,Fragile and conflict affected situations,FCS,2002,0.525
+519,Finland,FIN,2002,1.12
+520,Fiji,FJI,2002,0.79
+521,France,FRA,2002,1.05
+522,Gabon,GAB,2002,0.69
+523,United Kingdom,GBR,2002,1.18
+524,Georgia,GEO,2002,0.48
+525,Ghana,GHA,2002,0.28
+526,Gibraltar,GIB,2002,0.83
+527,Guinea,GIN,2002,0.66
+528,"Gambia, The",GMB,2002,0.46
+529,Greece,GRC,2002,0.78
+530,Grenada,GRD,2002,0.54
+531,Greenland,GRL,2002,0.001
+532,Guatemala,GTM,2002,0.48
+533,Guyana,GUY,2002,0.31
+534,High income,HIC,2002,0.83
+535,"Hong Kong SAR, China",HKG,2002,1.47
+536,Honduras,HND,2002,0.63
+537,Heavily indebted poor countries (HIPC),HPC,2002,0.66
+538,Croatia,HRV,2002,0.89
+539,Haiti,HTI,2002,0.54
+540,Hungary,HUN,2002,0.94
+541,IBRD only,IBD,2002,0.49
+542,IDA & IBRD total,IBT,2002,0.53
+543,IDA total,IDA,2002,0.55
+544,IDA blend,IDB,2002,0.53
+545,Indonesia,IDN,2002,0.27
+546,IDA only,IDX,2002,0.57
+547,India,IND,2002,0.66
+548,Ireland,IRL,2002,0.9
+549,"Iran, Islamic Rep.",IRN,2002,0.07
+550,Iraq,IRQ,2002,0.51
+551,Iceland,ISL,2002,1.16
+552,Israel,ISR,2002,0.9
+553,Italy,ITA,2002,1.05
+554,Jamaica,JAM,2002,0.52
+555,Jordan,JOR,2002,0.52
+556,Japan,JPN,2002,0.91
+557,Kazakhstan,KAZ,2002,0.35
+558,Kenya,KEN,2002,0.7
+559,Kyrgyz Republic,KGZ,2002,0.39
+560,Cambodia,KHM,2002,0.63
+561,"Korea, Rep.",KOR,2002,1.09
+562,Kuwait,KWT,2002,0.2
+563,Latin America & Caribbean (excluding high income),LAC,2002,0.55
+564,Lao PDR,LAO,2002,0.36
+565,Lebanon,LBN,2002,0.65
+566,Liberia,LBR,2002,0.61
+567,Libya,LBY,2002,0.1
+568,Latin America & Caribbean,LCN,2002,0.545
+569,Least developed countries: UN classification,LDC,2002,0.605
+570,Low income,LIC,2002,0.58
+571,Liechtenstein,LIE,2002,0.89
+572,Sri Lanka,LKA,2002,0.54
+573,Lower middle income,LMC,2002,0.52
+574,Low & middle income,LMY,2002,0.54
+575,Lesotho,LSO,2002,0.61
+576,Late-demographic dividend,LTE,2002,0.5
+577,Lithuania,LTU,2002,0.69
+578,Luxembourg,LUX,2002,0.76
+579,Latvia,LVA,2002,0.7
+580,Morocco,MAR,2002,0.87
+581,Monaco,MCO,2002,1.33
+582,Moldova,MDA,2002,0.55
+583,Madagascar,MDG,2002,1.08
+584,Maldives,MDV,2002,0.77
+585,Middle East & North Africa,MEA,2002,0.29
+586,Mexico,MEX,2002,0.62
+587,Middle income,MIC,2002,0.52
+588,North Macedonia,MKD,2002,0.85
+589,Mali,MLI,2002,0.69
+590,Malta,MLT,2002,0.87
+591,Myanmar,MMR,2002,0.36
+592,Middle East & North Africa (excluding high income),MNA,2002,0.29
+593,Montenegro,MNE,2002,0.74
+594,Mongolia,MNG,2002,0.38
+595,Mozambique,MOZ,2002,0.46
+596,Mauritania,MRT,2002,0.63
+597,Mauritius,MUS,2002,0.68
+598,Malawi,MWI,2002,0.66
+599,Malaysia,MYS,2002,0.35
+600,North America,NAC,2002,0.455
+601,Namibia,NAM,2002,0.45
+602,Niger,NER,2002,0.77
+603,Nigeria,NGA,2002,0.2
+604,Nicaragua,NIC,2002,0.54
+605,Netherlands,NLD,2002,1.12
+606,Norway,NOR,2002,1.23
+607,Nepal,NPL,2002,0.66
+608,New Zealand,NZL,2002,0.55
+609,OECD members,OED,2002,0.865
+610,Oman,OMN,2002,0.31
+611,Other small states,OSS,2002,0.61
+612,Pakistan,PAK,2002,0.52
+613,Panama,PAN,2002,0.51
+614,Peru,PER,2002,0.74
+615,Philippines,PHL,2002,0.35
+616,Papua New Guinea,PNG,2002,0.77
+617,Poland,POL,2002,0.83
+618,Pre-demographic dividend,PRE,2002,0.665
+619,"Korea, Dem. People's Rep.",PRK,2002,0.55
+620,Portugal,PRT,2002,0.97
+621,Paraguay,PRY,2002,0.56
+622,West Bank and Gaza,PSE,2002,0.99
+623,Post-demographic dividend,PST,2002,0.88
+624,Qatar,QAT,2002,0.22
+625,Romania,ROU,2002,0.64
+626,Russian Federation,RUS,2002,0.35
+627,Rwanda,RWA,2002,0.84
+628,South Asia,SAS,2002,0.53
+629,Saudi Arabia,SAU,2002,0.24
+630,Sudan,SDN,2002,0.3
+631,Senegal,SEN,2002,0.75
+632,Singapore,SGP,2002,0.85
+633,Sierra Leone,SLE,2002,0.51
+634,El Salvador,SLV,2002,0.46
+635,Somalia,SOM,2002,0.35
+636,Serbia,SRB,2002,0.74
+637,Sub-Saharan Africa (excluding high income),SSA,2002,0.66
+638,South Sudan,SSD,2002,1.51
+639,Sub-Saharan Africa,SSF,2002,0.66
+640,Small states,SST,2002,0.5920000000000001
+641,Suriname,SUR,2002,0.56
+642,Slovak Republic,SVK,2002,0.74
+643,Slovenia,SVN,2002,0.76
+644,Sweden,SWE,2002,1.06
+645,Eswatini,SWZ,2002,0.541
+646,Syrian Arab Republic,SYR,2002,0.53
+647,Chad,TCD,2002,0.79
+648,East Asia & Pacific (IDA & IBRD countries),TEA,2002,0.521
+649,Europe & Central Asia (IDA & IBRD countries),TEC,2002,0.57
+650,Togo,TGO,2002,0.56
+651,Thailand,THA,2002,0.36
+652,Tajikistan,TJK,2002,0.36
+653,Turkmenistan,TKM,2002,0.02
+654,Latin America & the Caribbean (IDA & IBRD countries),TLA,2002,0.54
+655,Timor-Leste,TLS,2002,0.52
+656,Middle East & North Africa (IDA & IBRD countries),TMN,2002,0.255
+657,South Asia (IDA & IBRD),TSA,2002,0.53
+658,Sub-Saharan Africa (IDA & IBRD countries),TSS,2002,0.66
+659,Trinidad and Tobago,TTO,2002,0.4
+660,Tunisia,TUN,2002,0.29
+661,Turkiye,TUR,2002,1.02
+662,Tanzania,TZA,2002,0.67
+663,Uganda,UGA,2002,0.83
+664,Ukraine,UKR,2002,0.47
+665,Upper middle income,UMC,2002,0.52
+666,Uruguay,URY,2002,0.46
+667,United States,USA,2002,0.4
+668,Uzbekistan,UZB,2002,0.38
+669,"Venezuela, RB",VEN,2002,0.05
+670,British Virgin Islands,VGB,2002,0.66
+671,Vietnam,VNM,2002,0.34
+672,World,WLD,2002,0.58
+673,Kosovo,XKX,2002,0.74
+674,"Yemen, Rep.",YEM,2002,0.21
+675,South Africa,ZAF,2002,0.43
+676,Zambia,ZMB,2002,0.72
+677,Zimbabwe,ZWE,2002,0.05
+678,Aruba,ABW,2004,0.73
+679,Africa Eastern and Southern,AFE,2004,0.88
+680,Afghanistan,AFG,2004,0.53
+681,Africa Western and Central,AFW,2004,0.885
+682,Angola,AGO,2004,0.39
+683,Albania,ALB,2004,1.23
+684,Andorra,AND,2004,0.5
+685,Arab World,ARB,2004,0.32
+686,United Arab Emirates,ARE,2004,0.28
+687,Argentina,ARG,2004,0.63
+688,Armenia,ARM,2004,0.68
+689,Australia,AUS,2004,0.85
+690,Austria,AUT,2004,1.32
+691,Azerbaijan,AZE,2004,0.41
+692,Burundi,BDI,2004,1.04
+693,Belgium,BEL,2004,1.5
+694,Benin,BEN,2004,0.77
+695,Burkina Faso,BFA,2004,1.18
+696,Bangladesh,BGD,2004,0.59
+697,Bulgaria,BGR,2004,0.92
+698,Bahrain,BHR,2004,0.27
+699,"Bahamas, The",BHS,2004,0.66
+700,Bosnia and Herzegovina,BIH,2004,0.97
+701,Belarus,BLR,2004,0.62
+702,Belize,BLZ,2004,1.2
+703,Bolivia,BOL,2004,0.54
+704,Brazil,BRA,2004,0.84
+705,Barbados,BRB,2004,0.82
+706,Brunei Darussalam,BRN,2004,0.32
+707,Bhutan,BTN,2004,0.78
+708,Botswana,BWA,2004,0.66
+709,Central African Republic,CAF,2004,1.29
+710,Canada,CAN,2004,0.68
+711,Central Europe and the Baltics,CEB,2004,1.08
+712,Switzerland,CHE,2004,1.29
+713,Chile,CHL,2004,0.85
+714,China,CHN,2004,0.48
+715,Cote d'Ivoire,CIV,2004,1.14
+716,Cameroon,CMR,2004,0.95
+717,"Congo, Dem. Rep.",COD,2004,0.92
+718,"Congo, Rep.",COG,2004,0.87
+719,Colombia,COL,2004,0.72
+720,Cabo Verde,CPV,2004,1.4
+721,Costa Rica,CRI,2004,0.78
+722,Caribbean small states,CSS,2004,0.705
+723,Cuba,CUB,2004,0.95
+724,Cyprus,CYP,2004,1.08
+725,Czech Republic,CZE,2004,1.08
+726,Germany,DEU,2004,1.46
+727,Djibouti,DJI,2004,1.33
+728,Denmark,DNK,2004,1.51
+729,Dominican Republic,DOM,2004,0.85
+730,Algeria,DZA,2004,0.32
+731,East Asia & Pacific (excluding high income),EAP,2004,0.54
+732,Early-demographic dividend,EAR,2004,0.625
+733,East Asia & Pacific,EAS,2004,0.68
+734,Europe & Central Asia (excluding high income),ECA,2004,0.68
+735,Europe & Central Asia,ECS,2004,1.17
+736,Ecuador,ECU,2004,0.54
+737,"Egypt, Arab Rep.",EGY,2004,0.28
+738,Euro area,EMU,2004,1.21
+739,Eritrea,ERI,2004,0.8
+740,Spain,ESP,2004,1.21
+741,Estonia,EST,2004,0.94
+742,Ethiopia,ETH,2004,0.6
+743,European Union,EUU,2004,1.21
+744,Fragile and conflict affected situations,FCS,2004,0.835
+745,Finland,FIN,2004,1.54
+746,Fiji,FJI,2004,0.91
+747,France,FRA,2004,1.42
+748,Gabon,GAB,2004,0.9
+749,United Kingdom,GBR,2004,1.56
+750,Georgia,GEO,2004,0.73
+751,Ghana,GHA,2004,0.49
+752,Gibraltar,GIB,2004,1.21
+753,Guinea,GIN,2004,0.75
+754,"Gambia, The",GMB,2004,0.75
+755,Greece,GRC,2004,1.14
+756,Grenada,GRD,2004,0.73
+757,Greenland,GRL,2004,0.001
+758,Guatemala,GTM,2004,0.68
+759,Guyana,GUY,2004,0.74
+760,High income,HIC,2004,1.135
+761,"Hong Kong SAR, China",HKG,2004,1.54
+762,Honduras,HND,2004,0.81
+763,Heavily indebted poor countries (HIPC),HPC,2004,0.88
+764,Croatia,HRV,2004,1.24
+765,Haiti,HTI,2004,0.88
+766,Hungary,HUN,2004,1.3
+767,IBRD only,IBD,2004,0.67
+768,IDA & IBRD total,IBT,2004,0.73
+769,IDA total,IDA,2004,0.8
+770,IDA blend,IDB,2004,0.8
+771,Indonesia,IDN,2004,0.27
+772,IDA only,IDX,2004,0.8
+773,India,IND,2004,0.87
+774,Ireland,IRL,2004,1.29
+775,"Iran, Islamic Rep.",IRN,2004,0.09
+776,Iraq,IRQ,2004,0.56
+777,Iceland,ISL,2004,1.64
+778,Israel,ISR,2004,1.05
+779,Italy,ITA,2004,1.53
+780,Jamaica,JAM,2004,0.63
+781,Jordan,JOR,2004,0.61
+782,Japan,JPN,2004,1.26
+783,Kazakhstan,KAZ,2004,0.52
+784,Kenya,KEN,2004,0.92
+785,Kyrgyz Republic,KGZ,2004,0.48
+786,Cambodia,KHM,2004,0.79
+787,"Korea, Rep.",KOR,2004,1.35
+788,Kuwait,KWT,2004,0.24
+789,Latin America & Caribbean (excluding high income),LAC,2004,0.72
+790,Lao PDR,LAO,2004,0.54
+791,Lebanon,LBN,2004,0.71
+792,Liberia,LBR,2004,0.75
+793,Libya,LBY,2004,0.09
+794,Latin America & Caribbean,LCN,2004,0.705
+795,Least developed countries: UN classification,LDC,2004,0.8
+796,Low income,LIC,2004,0.9
+797,Liechtenstein,LIE,2004,1.29
+798,Sri Lanka,LKA,2004,0.72
+799,Lower middle income,LMC,2004,0.685
+800,Low & middle income,LMY,2004,0.74
+801,Lesotho,LSO,2004,0.73
+802,Late-demographic dividend,LTE,2004,0.725
+803,Lithuania,LTU,2004,1.03
+804,Luxembourg,LUX,2004,1.19
+805,Latvia,LVA,2004,0.94
+806,Morocco,MAR,2004,1.1
+807,Monaco,MCO,2004,1.39
+808,Moldova,MDA,2004,0.91
+809,Madagascar,MDG,2004,1.05
+810,Maldives,MDV,2004,0.95
+811,Middle East & North Africa,MEA,2004,0.31
+812,Mexico,MEX,2004,0.59
+813,Middle income,MIC,2004,0.69
+814,North Macedonia,MKD,2004,1.17
+815,Mali,MLI,2004,1.16
+816,Malta,MLT,2004,1.18
+817,Myanmar,MMR,2004,0.12
+818,Middle East & North Africa (excluding high income),MNA,2004,0.46
+819,Montenegro,MNE,2004,1.2
+820,Mongolia,MNG,2004,0.61
+821,Mozambique,MOZ,2004,0.88
+822,Mauritania,MRT,2004,0.8
+823,Mauritius,MUS,2004,0.77
+824,Malawi,MWI,2004,0.95
+825,Malaysia,MYS,2004,0.37
+826,North America,NAC,2004,0.61
+827,Namibia,NAM,2004,0.68
+828,Niger,NER,2004,1.02
+829,Nigeria,NGA,2004,0.39
+830,Nicaragua,NIC,2004,0.69
+831,Netherlands,NLD,2004,1.62
+832,Norway,NOR,2004,1.61
+833,Nepal,NPL,2004,0.72
+834,New Zealand,NZL,2004,0.77
+835,OECD members,OED,2004,1.235
+836,Oman,OMN,2004,0.31
+837,Other small states,OSS,2004,0.76
+838,Pakistan,PAK,2004,0.62
+839,Panama,PAN,2004,0.54
+840,Peru,PER,2004,1.12
+841,Philippines,PHL,2004,0.52
+842,Papua New Guinea,PNG,2004,0.94
+843,Poland,POL,2004,1.2
+844,Pre-demographic dividend,PRE,2004,0.92
+845,"Korea, Dem. People's Rep.",PRK,2004,0.78
+846,Portugal,PRT,2004,1.38
+847,Paraguay,PRY,2004,0.62
+848,West Bank and Gaza,PSE,2004,1.17
+849,Post-demographic dividend,PST,2004,1.21
+850,Qatar,QAT,2004,0.21
+851,Romania,ROU,2004,0.96
+852,Russian Federation,RUS,2004,0.55
+853,Rwanda,RWA,2004,0.98
+854,South Asia,SAS,2004,0.72
+855,Saudi Arabia,SAU,2004,0.24
+856,Sudan,SDN,2004,0.47
+857,Senegal,SEN,2004,1.1
+858,Singapore,SGP,2004,0.89
+859,Sierra Leone,SLE,2004,0.76
+860,El Salvador,SLV,2004,0.65
+861,Somalia,SOM,2004,1.36
+862,Serbia,SRB,2004,1.0
+863,Sub-Saharan Africa (excluding high income),SSA,2004,0.88
+864,South Sudan,SSD,2004,1.34
+865,Sub-Saharan Africa,SSF,2004,0.88
+866,Small states,SST,2004,0.745
+867,Suriname,SUR,2004,0.5
+868,Slovak Republic,SVK,2004,1.17
+869,Slovenia,SVN,2004,1.12
+870,Sweden,SWE,2004,1.51
+871,Eswatini,SWZ,2004,0.76
+872,Syrian Arab Republic,SYR,2004,0.46
+873,Chad,TCD,2004,1.17
+874,East Asia & Pacific (IDA & IBRD countries),TEA,2004,0.54
+875,Europe & Central Asia (IDA & IBRD countries),TEC,2004,0.825
+876,Togo,TGO,2004,0.85
+877,Thailand,THA,2004,0.54
+878,Tajikistan,TJK,2004,0.67
+879,Turkmenistan,TKM,2004,0.02
+880,Latin America & the Caribbean (IDA & IBRD countries),TLA,2004,0.685
+881,Timor-Leste,TLS,2004,0.65
+882,Middle East & North Africa (IDA & IBRD countries),TMN,2004,0.39
+883,South Asia (IDA & IBRD),TSA,2004,0.72
+884,Sub-Saharan Africa (IDA & IBRD countries),TSS,2004,0.88
+885,Trinidad and Tobago,TTO,2004,0.35
+886,Tunisia,TUN,2004,0.68
+887,Turkiye,TUR,2004,1.44
+888,Tanzania,TZA,2004,0.93
+889,Uganda,UGA,2004,1.02
+890,Ukraine,UKR,2004,0.55
+891,Upper middle income,UMC,2004,0.72
+892,Uruguay,URY,2004,1.13
+893,United States,USA,2004,0.54
+894,Uzbekistan,UZB,2004,0.35
+895,"Venezuela, RB",VEN,2004,0.04
+896,British Virgin Islands,VGB,2004,0.82
+897,Vietnam,VNM,2004,0.48
+898,World,WLD,2004,0.805
+899,Kosovo,XKX,2004,1.16
+900,"Yemen, Rep.",YEM,2004,0.19
+901,South Africa,ZAF,2004,0.81
+902,Zambia,ZMB,2004,1.1
+903,Zimbabwe,ZWE,2004,0.61
+904,Aruba,ABW,2006,0.89
+905,Africa Eastern and Southern,AFE,2006,1.04
+906,Afghanistan,AFG,2006,0.68
+907,Africa Western and Central,AFW,2006,1.03
+908,Angola,AGO,2006,0.5
+909,Albania,ALB,2006,1.44
+910,Andorra,AND,2006,0.74
+911,Arab World,ARB,2006,0.37
+912,United Arab Emirates,ARE,2006,0.37
+913,Argentina,ARG,2006,0.62
+914,Armenia,ARM,2006,0.96
+915,Australia,AUS,2006,0.93
+916,Austria,AUT,2006,1.32
+917,Azerbaijan,AZE,2006,0.46
+918,Burundi,BDI,2006,1.2
+919,Belgium,BEL,2006,1.63
+920,Benin,BEN,2006,0.81
+921,Burkina Faso,BFA,2006,1.15
+922,Bangladesh,BGD,2006,0.79
+923,Bulgaria,BGR,2006,1.05
+924,Bahrain,BHR,2006,0.21
+925,"Bahamas, The",BHS,2006,0.57
+926,Bosnia and Herzegovina,BIH,2006,1.34
+927,Belarus,BLR,2006,0.79
+928,Belize,BLZ,2006,1.27
+929,Bolivia,BOL,2006,0.54
+930,Brazil,BRA,2006,1.26
+931,Barbados,BRB,2006,1.11
+932,Brunei Darussalam,BRN,2006,0.34
+933,Bhutan,BTN,2006,0.8009999999999999
+934,Botswana,BWA,2006,0.78
+935,Central African Republic,CAF,2006,1.37
+936,Canada,CAN,2006,0.84
+937,Central Europe and the Baltics,CEB,2006,1.26
+938,Switzerland,CHE,2006,1.27
+939,Chile,CHL,2006,1.09
+940,China,CHN,2006,0.69
+941,Cote d'Ivoire,CIV,2006,1.2
+942,Cameroon,CMR,2006,1.14
+943,"Congo, Dem. Rep.",COD,2006,0.94
+944,"Congo, Rep.",COG,2006,0.96
+945,Colombia,COL,2006,0.98
+946,Cabo Verde,CPV,2006,1.5430000000000001
+947,Costa Rica,CRI,2006,0.98
+948,Caribbean small states,CSS,2006,0.94
+949,Cuba,CUB,2006,1.1
+950,Cyprus,CYP,2006,1.25
+951,Czech Republic,CZE,2006,1.3
+952,Germany,DEU,2006,1.55
+953,Djibouti,DJI,2006,1.53
+954,Denmark,DNK,2006,1.58
+955,Dominican Republic,DOM,2006,1.03
+956,Algeria,DZA,2006,0.32
+957,East Asia & Pacific (excluding high income),EAP,2006,0.71
+958,Early-demographic dividend,EAR,2006,0.8
+959,East Asia & Pacific,EAS,2006,0.87
+960,Europe & Central Asia (excluding high income),ECA,2006,0.86
+961,Europe & Central Asia,ECS,2006,1.29
+962,Ecuador,ECU,2006,0.47
+963,"Egypt, Arab Rep.",EGY,2006,0.3
+964,Euro area,EMU,2006,1.34
+965,Eritrea,ERI,2006,1.9
+966,Spain,ESP,2006,1.15
+967,Estonia,EST,2006,1.23
+968,Ethiopia,ETH,2006,0.93
+969,European Union,EUU,2006,1.32
+970,Fragile and conflict affected situations,FCS,2006,0.96
+971,Finland,FIN,2006,1.55
+972,Fiji,FJI,2006,1.07
+973,France,FRA,2006,1.48
+974,Gabon,GAB,2006,0.64
+975,United Kingdom,GBR,2006,1.63
+976,Georgia,GEO,2006,0.86
+977,Ghana,GHA,2006,0.86
+978,Gibraltar,GIB,2006,1.15
+979,Guinea,GIN,2006,0.79
+980,"Gambia, The",GMB,2006,1.08
+981,Greece,GRC,2006,1.16
+982,Grenada,GRD,2006,0.89
+983,Greenland,GRL,2006,0.001
+984,Guatemala,GTM,2006,0.78
+985,Guyana,GUY,2006,0.81
+986,High income,HIC,2006,1.26
+987,"Hong Kong SAR, China",HKG,2006,1.69
+988,Honduras,HND,2006,0.89
+989,Heavily indebted poor countries (HIPC),HPC,2006,1.06
+990,Croatia,HRV,2006,1.34
+991,Haiti,HTI,2006,1.11
+992,Hungary,HUN,2006,1.3
+993,IBRD only,IBD,2006,0.825
+994,IDA & IBRD total,IBT,2006,0.89
+995,IDA total,IDA,2006,0.98
+996,IDA blend,IDB,2006,0.98
+997,Indonesia,IDN,2006,0.57
+998,IDA only,IDX,2006,0.98
+999,India,IND,2006,1.01
+1000,Ireland,IRL,2006,1.34
+1001,"Iran, Islamic Rep.",IRN,2006,0.09
+1002,Iraq,IRQ,2006,0.64
+1003,Iceland,ISL,2006,1.86
+1004,Israel,ISR,2006,1.47
+1005,Italy,ITA,2006,1.56
+1006,Jamaica,JAM,2006,0.82
+1007,Jordan,JOR,2006,0.86
+1008,Japan,JPN,2006,1.09
+1009,Kazakhstan,KAZ,2006,0.7
+1010,Kenya,KEN,2006,1.12
+1011,Kyrgyz Republic,KGZ,2006,0.64
+1012,Cambodia,KHM,2006,1.01
+1013,"Korea, Rep.",KOR,2006,1.65
+1014,Kuwait,KWT,2006,0.22
+1015,Latin America & Caribbean (excluding high income),LAC,2006,0.89
+1016,Lao PDR,LAO,2006,0.86
+1017,Lebanon,LBN,2006,0.74
+1018,Liberia,LBR,2006,0.79
+1019,Libya,LBY,2006,0.12
+1020,Latin America & Caribbean,LCN,2006,0.915
+1021,Least developed countries: UN classification,LDC,2006,1.01
+1022,Low income,LIC,2006,1.11
+1023,Liechtenstein,LIE,2006,1.27
+1024,Sri Lanka,LKA,2006,0.88
+1025,Lower middle income,LMC,2006,0.85
+1026,Low & middle income,LMY,2006,0.89
+1027,Lesotho,LSO,2006,0.89
+1028,Late-demographic dividend,LTE,2006,0.92
+1029,Lithuania,LTU,2006,1.08
+1030,Luxembourg,LUX,2006,1.29
+1031,Latvia,LVA,2006,1.2
+1032,Morocco,MAR,2006,1.22
+1033,Monaco,MCO,2006,1.51
+1034,Moldova,MDA,2006,1.05
+1035,Madagascar,MDG,2006,1.15
+1036,Maldives,MDV,2006,0.79
+1037,Middle East & North Africa,MEA,2006,0.32
+1038,Mexico,MEX,2006,0.74
+1039,Middle income,MIC,2006,0.86
+1040,North Macedonia,MKD,2006,1.23
+1041,Mali,MLI,2006,1.22
+1042,Malta,MLT,2006,1.38
+1043,Myanmar,MMR,2006,0.66
+1044,Middle East & North Africa (excluding high income),MNA,2006,0.6
+1045,Montenegro,MNE,2006,1.51
+1046,Mongolia,MNG,2006,0.88
+1047,Mozambique,MOZ,2006,1.15
+1048,Mauritania,MRT,2006,0.97
+1049,Mauritius,MUS,2006,1.2
+1050,Malawi,MWI,2006,1.17
+1051,Malaysia,MYS,2006,0.53
+1052,North America,NAC,2006,0.735
+1053,Namibia,NAM,2006,0.87
+1054,Niger,NER,2006,1.14
+1055,Nigeria,NGA,2006,0.51
+1056,Nicaragua,NIC,2006,0.67
+1057,Netherlands,NLD,2006,1.7
+1058,Norway,NOR,2006,1.8
+1059,Nepal,NPL,2006,0.94
+1060,New Zealand,NZL,2006,0.98
+1061,OECD members,OED,2006,1.3
+1062,Oman,OMN,2006,0.31
+1063,Other small states,OSS,2006,0.89
+1064,Pakistan,PAK,2006,1.01
+1065,Panama,PAN,2006,0.7
+1066,Peru,PER,2006,1.22
+1067,Philippines,PHL,2006,0.76
+1068,Papua New Guinea,PNG,2006,0.88
+1069,Poland,POL,2006,1.3
+1070,Pre-demographic dividend,PRE,2006,1.12
+1071,"Korea, Dem. People's Rep.",PRK,2006,0.71
+1072,Portugal,PRT,2006,1.56
+1073,Paraguay,PRY,2006,0.97
+1074,West Bank and Gaza,PSE,2006,1.29
+1075,Post-demographic dividend,PST,2006,1.3
+1076,Qatar,QAT,2006,0.19
+1077,Romania,ROU,2006,1.26
+1078,Russian Federation,RUS,2006,0.77
+1079,Rwanda,RWA,2006,1.11
+1080,South Asia,SAS,2006,0.91
+1081,Saudi Arabia,SAU,2006,0.16
+1082,Sudan,SDN,2006,0.72
+1083,Senegal,SEN,2006,1.31
+1084,Singapore,SGP,2006,0.92
+1085,Sierra Leone,SLE,2006,0.98
+1086,El Salvador,SLV,2006,0.82
+1087,Somalia,SOM,2006,0.74
+1088,Serbia,SRB,2006,1.45
+1089,Sub-Saharan Africa (excluding high income),SSA,2006,1.035
+1090,South Sudan,SSD,2006,1.76
+1091,Sub-Saharan Africa,SSF,2006,1.035
+1092,Small states,SST,2006,0.8220000000000001
+1093,Suriname,SUR,2006,0.94
+1094,Slovak Republic,SVK,2006,1.35
+1095,Slovenia,SVN,2006,1.23
+1096,Sweden,SWE,2006,1.46
+1097,Eswatini,SWZ,2006,0.8
+1098,Syrian Arab Republic,SYR,2006,0.6
+1099,Chad,TCD,2006,1.31
+1100,East Asia & Pacific (IDA & IBRD countries),TEA,2006,0.73
+1101,Europe & Central Asia (IDA & IBRD countries),TEC,2006,1.005
+1102,Togo,TGO,2006,1.03
+1103,Thailand,THA,2006,0.7
+1104,Tajikistan,TJK,2006,0.8
+1105,Turkmenistan,TKM,2006,0.02
+1106,Latin America & the Caribbean (IDA & IBRD countries),TLA,2006,0.89
+1107,Timor-Leste,TLS,2006,0.98
+1108,Middle East & North Africa (IDA & IBRD countries),TMN,2006,0.46
+1109,South Asia (IDA & IBRD),TSA,2006,0.91
+1110,Sub-Saharan Africa (IDA & IBRD countries),TSS,2006,1.035
+1111,Trinidad and Tobago,TTO,2006,0.43
+1112,Tunisia,TUN,2006,0.83
+1113,Turkiye,TUR,2006,1.88
+1114,Tanzania,TZA,2006,1.04
+1115,Uganda,UGA,2006,1.17
+1116,Ukraine,UKR,2006,0.81
+1117,Upper middle income,UMC,2006,0.88
+1118,Uruguay,URY,2006,1.23
+1119,United States,USA,2006,0.63
+1120,Uzbekistan,UZB,2006,0.85
+1121,"Venezuela, RB",VEN,2006,0.03
+1122,British Virgin Islands,VGB,2006,1.11
+1123,Vietnam,VNM,2006,0.67
+1124,World,WLD,2006,0.98
+1125,Kosovo,XKX,2006,1.22
+1126,"Yemen, Rep.",YEM,2006,0.3
+1127,South Africa,ZAF,2006,0.85
+1128,Zambia,ZMB,2006,1.31
+1129,Zimbabwe,ZWE,2006,1.02
+1130,Aruba,ABW,2008,1.28
+1131,Africa Eastern and Southern,AFE,2008,1.215
+1132,Afghanistan,AFG,2008,1.05
+1133,Africa Western and Central,AFW,2008,1.085
+1134,Angola,AGO,2008,0.53
+1135,Albania,ALB,2008,1.36
+1136,Andorra,AND,2008,1.24
+1137,Arab World,ARB,2008,0.49
+1138,United Arab Emirates,ARE,2008,0.45
+1139,Argentina,ARG,2008,0.78
+1140,Armenia,ARM,2008,1.08
+1141,Australia,AUS,2008,0.74
+1142,Austria,AUT,2008,1.37
+1143,Azerbaijan,AZE,2008,0.74
+1144,Burundi,BDI,2008,1.39
+1145,Belgium,BEL,2008,1.5
+1146,Benin,BEN,2008,1.03
+1147,Burkina Faso,BFA,2008,1.38
+1148,Bangladesh,BGD,2008,1.17
+1149,Bulgaria,BGR,2008,1.28
+1150,Bahrain,BHR,2008,0.21
+1151,"Bahamas, The",BHS,2008,0.88
+1152,Bosnia and Herzegovina,BIH,2008,1.13
+1153,Belarus,BLR,2008,1.33
+1154,Belize,BLZ,2008,0.7
+1155,Bolivia,BOL,2008,0.68
+1156,Brazil,BRA,2008,1.26
+1157,Barbados,BRB,2008,1.0
+1158,Brunei Darussalam,BRN,2008,0.38
+1159,Bhutan,BTN,2008,0.91
+1160,Botswana,BWA,2008,0.88
+1161,Central African Republic,CAF,2008,1.44
+1162,Canada,CAN,2008,0.76
+1163,Central Europe and the Baltics,CEB,2008,1.27
+1164,Switzerland,CHE,2008,1.3
+1165,Chile,CHL,2008,0.95
+1166,China,CHN,2008,0.99
+1167,Cote d'Ivoire,CIV,2008,1.33
+1168,Cameroon,CMR,2008,1.14
+1169,"Congo, Dem. Rep.",COD,2008,1.23
+1170,"Congo, Rep.",COG,2008,0.81
+1171,Colombia,COL,2008,1.04
+1172,Cabo Verde,CPV,2008,1.84
+1173,Costa Rica,CRI,2008,1.24
+1174,Caribbean small states,CSS,2008,0.875
+1175,Cuba,CUB,2008,1.67
+1176,Cyprus,CYP,2008,1.28
+1177,Czech Republic,CZE,2008,1.37
+1178,Germany,DEU,2008,1.56
+1179,Djibouti,DJI,2008,1.57
+1180,Denmark,DNK,2008,1.54
+1181,Dominican Republic,DOM,2008,1.04
+1182,Algeria,DZA,2008,0.34
+1183,East Asia & Pacific (excluding high income),EAP,2008,0.915
+1184,Early-demographic dividend,EAR,2008,0.87
+1185,East Asia & Pacific,EAS,2008,0.94
+1186,Europe & Central Asia (excluding high income),ECA,2008,1.115
+1187,Europe & Central Asia,ECS,2008,1.28
+1188,Ecuador,ECU,2008,0.51
+1189,"Egypt, Arab Rep.",EGY,2008,0.49
+1190,Euro area,EMU,2008,1.5
+1191,Eritrea,ERI,2008,2.53
+1192,Spain,ESP,2008,1.23
+1193,Estonia,EST,2008,1.18
+1194,Ethiopia,ETH,2008,0.92
+1195,European Union,EUU,2008,1.38
+1196,Fragile and conflict affected situations,FCS,2008,1.1
+1197,Finland,FIN,2008,1.57
+1198,Fiji,FJI,2008,1.15
+1199,France,FRA,2008,1.52
+1200,Gabon,GAB,2008,1.14
+1201,United Kingdom,GBR,2008,1.44
+1202,Georgia,GEO,2008,1.09
+1203,Ghana,GHA,2008,0.9
+1204,Gibraltar,GIB,2008,1.23
+1205,Guinea,GIN,2008,1.02
+1206,"Gambia, The",GMB,2008,0.79
+1207,Greece,GRC,2008,1.23
+1208,Grenada,GRD,2008,1.28
+1209,Greenland,GRL,2008,0.001
+1210,Guatemala,GTM,2008,0.86
+1211,Guyana,GUY,2008,0.84
+1212,High income,HIC,2008,1.27
+1213,"Hong Kong SAR, China",HKG,2008,1.95
+1214,Honduras,HND,2008,0.8
+1215,Heavily indebted poor countries (HIPC),HPC,2008,1.13
+1216,Croatia,HRV,2008,1.27
+1217,Haiti,HTI,2008,1.16
+1218,Hungary,HUN,2008,1.27
+1219,IBRD only,IBD,2008,0.91
+1220,IDA & IBRD total,IBT,2008,1.03
+1221,IDA total,IDA,2008,1.115
+1222,IDA blend,IDB,2008,1.175
+1223,Indonesia,IDN,2008,0.5
+1224,IDA only,IDX,2008,1.075
+1225,India,IND,2008,1.09
+1226,Ireland,IRL,2008,1.56
+1227,"Iran, Islamic Rep.",IRN,2008,0.1
+1228,Iraq,IRQ,2008,0.71
+1229,Iceland,ISL,2008,1.15
+1230,Israel,ISR,2008,1.37
+1231,Italy,ITA,2008,1.57
+1232,Jamaica,JAM,2008,0.74
+1233,Jordan,JOR,2008,0.61
+1234,Japan,JPN,2008,1.42
+1235,Kazakhstan,KAZ,2008,0.83
+1236,Kenya,KEN,2008,1.2
+1237,Kyrgyz Republic,KGZ,2008,0.8
+1238,Cambodia,KHM,2008,0.94
+1239,"Korea, Rep.",KOR,2008,1.51
+1240,Kuwait,KWT,2008,0.24
+1241,Latin America & Caribbean (excluding high income),LAC,2008,0.87
+1242,Lao PDR,LAO,2008,0.92
+1243,Lebanon,LBN,2008,0.76
+1244,Liberia,LBR,2008,0.77
+1245,Libya,LBY,2008,0.14
+1246,Latin America & Caribbean,LCN,2008,0.89
+1247,Least developed countries: UN classification,LDC,2008,1.13
+1248,Low income,LIC,2008,1.23
+1249,Liechtenstein,LIE,2008,1.3
+1250,Sri Lanka,LKA,2008,1.43
+1251,Lower middle income,LMC,2008,0.93
+1252,Low & middle income,LMY,2008,1.03
+1253,Lesotho,LSO,2008,0.79
+1254,Late-demographic dividend,LTE,2008,1.085
+1255,Lithuania,LTU,2008,1.13
+1256,Luxembourg,LUX,2008,1.4
+1257,Latvia,LVA,2008,1.12
+1258,Morocco,MAR,2008,1.29
+1259,Monaco,MCO,2008,1.64
+1260,Moldova,MDA,2008,1.2
+1261,Madagascar,MDG,2008,1.55
+1262,Maldives,MDV,2008,0.81
+1263,Middle East & North Africa,MEA,2008,0.45
+1264,Mexico,MEX,2008,0.74
+1265,Middle income,MIC,2008,0.95
+1266,North Macedonia,MKD,2008,1.15
+1267,Mali,MLI,2008,1.3
+1268,Malta,MLT,2008,1.66
+1269,Myanmar,MMR,2008,0.43
+1270,Middle East & North Africa (excluding high income),MNA,2008,0.61
+1271,Montenegro,MNE,2008,1.27
+1272,Mongolia,MNG,2008,1.38
+1273,Mozambique,MOZ,2008,1.71
+1274,Mauritania,MRT,2008,1.49
+1275,Mauritius,MUS,2008,1.31
+1276,Malawi,MWI,2008,1.78
+1277,Malaysia,MYS,2008,0.53
+1278,North America,NAC,2008,0.66
+1279,Namibia,NAM,2008,0.78
+1280,Niger,NER,2008,0.99
+1281,Nigeria,NGA,2008,0.59
+1282,Nicaragua,NIC,2008,0.87
+1283,Netherlands,NLD,2008,1.68
+1284,Norway,NOR,2008,1.63
+1285,Nepal,NPL,2008,1.13
+1286,New Zealand,NZL,2008,1.09
+1287,OECD members,OED,2008,1.37
+1288,Oman,OMN,2008,0.31
+1289,Other small states,OSS,2008,0.91
+1290,Pakistan,PAK,2008,0.84
+1291,Panama,PAN,2008,0.67
+1292,Peru,PER,2008,1.42
+1293,Philippines,PHL,2008,0.91
+1294,Papua New Guinea,PNG,2008,0.94
+1295,Poland,POL,2008,1.43
+1296,Pre-demographic dividend,PRE,2008,1.22
+1297,"Korea, Dem. People's Rep.",PRK,2008,0.76
+1298,Portugal,PRT,2008,1.61
+1299,Paraguay,PRY,2008,1.17
+1300,West Bank and Gaza,PSE,2008,1.34
+1301,Post-demographic dividend,PST,2008,1.37
+1302,Qatar,QAT,2008,0.22
+1303,Romania,ROU,2008,1.11
+1304,Russian Federation,RUS,2008,0.89
+1305,Rwanda,RWA,2008,1.37
+1306,South Asia,SAS,2008,1.09
+1307,Saudi Arabia,SAU,2008,0.16
+1308,Sudan,SDN,2008,0.65
+1309,Senegal,SEN,2008,1.35
+1310,Singapore,SGP,2008,1.07
+1311,Sierra Leone,SLE,2008,0.91
+1312,El Salvador,SLV,2008,0.78
+1313,Somalia,SOM,2008,1.12
+1314,Serbia,SRB,2008,1.29
+1315,Sub-Saharan Africa (excluding high income),SSA,2008,1.14
+1316,South Sudan,SSD,2008,1.59
+1317,Sub-Saharan Africa,SSF,2008,1.14
+1318,Small states,SST,2008,0.91
+1319,Suriname,SUR,2008,0.91
+1320,Slovak Republic,SVK,2008,1.57
+1321,Slovenia,SVN,2008,1.18
+1322,Sweden,SWE,2008,1.38
+1323,Eswatini,SWZ,2008,0.86
+1324,Syrian Arab Republic,SYR,2008,0.85
+1325,Chad,TCD,2008,1.3
+1326,East Asia & Pacific (IDA & IBRD countries),TEA,2008,0.92
+1327,Europe & Central Asia (IDA & IBRD countries),TEC,2008,1.13
+1328,Togo,TGO,2008,0.89
+1329,Thailand,THA,2008,0.87
+1330,Tajikistan,TJK,2008,1.03
+1331,Turkmenistan,TKM,2008,0.22
+1332,Latin America & the Caribbean (IDA & IBRD countries),TLA,2008,0.865
+1333,Timor-Leste,TLS,2008,1.22
+1334,Middle East & North Africa (IDA & IBRD countries),TMN,2008,0.55
+1335,South Asia (IDA & IBRD),TSA,2008,1.09
+1336,Sub-Saharan Africa (IDA & IBRD countries),TSS,2008,1.14
+1337,Trinidad and Tobago,TTO,2008,0.36
+1338,Tunisia,TUN,2008,0.96
+1339,Turkiye,TUR,2008,1.87
+1340,Tanzania,TZA,2008,1.11
+1341,Uganda,UGA,2008,1.3
+1342,Ukraine,UKR,2008,0.88
+1343,Upper middle income,UMC,2008,1.04
+1344,Uruguay,URY,2008,1.18
+1345,United States,USA,2008,0.56
+1346,Uzbekistan,UZB,2008,1.35
+1347,"Venezuela, RB",VEN,2008,0.02
+1348,British Virgin Islands,VGB,2008,1.0
+1349,Vietnam,VNM,2008,0.8
+1350,World,WLD,2008,1.11
+1351,Kosovo,XKX,2008,1.1
+1352,"Yemen, Rep.",YEM,2008,0.3
+1353,South Africa,ZAF,2008,0.87
+1354,Zambia,ZMB,2008,1.7
+1355,Zimbabwe,ZWE,2008,1.3
+1356,Aruba,ABW,2010,1.02
+1357,Africa Eastern and Southern,AFE,2010,1.285
+1358,Afghanistan,AFG,2010,1.15
+1359,Africa Western and Central,AFW,2010,1.19
+1360,Angola,AGO,2010,0.65
+1361,Albania,ALB,2010,1.46
+1362,Andorra,AND,2010,1.49
+1363,Arab World,ARB,2010,0.55
+1364,United Arab Emirates,ARE,2010,0.47
+1365,Argentina,ARG,2010,0.96
+1366,Armenia,ARM,2010,1.08
+1367,Australia,AUS,2010,1.27
+1368,Austria,AUT,2010,1.63
+1369,Azerbaijan,AZE,2010,0.75
+1370,Burundi,BDI,2010,1.43
+1371,Belgium,BEL,2010,1.87
+1372,Benin,BEN,2010,1.04
+1373,Burkina Faso,BFA,2010,1.44
+1374,Bangladesh,BGD,2010,1.09
+1375,Bulgaria,BGR,2010,1.51
+1376,Bahrain,BHR,2010,0.21
+1377,"Bahamas, The",BHS,2010,0.89
+1378,Bosnia and Herzegovina,BIH,2010,1.42
+1379,Belarus,BLR,2010,1.08
+1380,Belize,BLZ,2010,1.13
+1381,Bolivia,BOL,2010,0.7
+1382,Brazil,BRA,2010,1.58
+1383,Barbados,BRB,2010,1.25
+1384,Brunei Darussalam,BRN,2010,0.39
+1385,Bhutan,BTN,2010,1.08
+1386,Botswana,BWA,2010,0.93
+1387,Central African Republic,CAF,2010,1.71
+1388,Canada,CAN,2010,1.21
+1389,Central Europe and the Baltics,CEB,2010,1.59
+1390,Switzerland,CHE,2010,1.66
+1391,Chile,CHL,2010,1.38
+1392,China,CHN,2010,1.11
+1393,Cote d'Ivoire,CIV,2010,1.68
+1394,Cameroon,CMR,2010,1.2
+1395,"Congo, Dem. Rep.",COD,2010,1.28
+1396,"Congo, Rep.",COG,2010,1.27
+1397,Colombia,COL,2010,1.41
+1398,Cabo Verde,CPV,2010,1.84
+1399,Costa Rica,CRI,2010,1.14
+1400,Caribbean small states,CSS,2010,1.02
+1401,Cuba,CUB,2010,1.72
+1402,Cyprus,CYP,2010,1.47
+1403,Czech Republic,CZE,2010,1.75
+1404,Germany,DEU,2010,1.9
+1405,Djibouti,DJI,2010,1.63
+1406,Denmark,DNK,2010,2.0
+1407,Dominican Republic,DOM,2010,1.23
+1408,Algeria,DZA,2010,0.32
+1409,East Asia & Pacific (excluding high income),EAP,2010,1.08
+1410,Early-demographic dividend,EAR,2010,1.02
+1411,East Asia & Pacific,EAS,2010,1.205
+1412,Europe & Central Asia (excluding high income),ECA,2010,1.105
+1413,Europe & Central Asia,ECS,2010,1.59
+1414,Ecuador,ECU,2010,0.53
+1415,"Egypt, Arab Rep.",EGY,2010,0.48
+1416,Euro area,EMU,2010,1.7
+1417,Eritrea,ERI,2010,2.54
+1418,Spain,ESP,2010,1.56
+1419,Estonia,EST,2010,1.54
+1420,Ethiopia,ETH,2010,0.91
+1421,European Union,EUU,2010,1.67
+1422,Fragile and conflict affected situations,FCS,2010,1.15
+1423,Finland,FIN,2010,1.94
+1424,Fiji,FJI,2010,1.33
+1425,France,FRA,2010,1.98
+1426,Gabon,GAB,2010,1.08
+1427,United Kingdom,GBR,2010,1.92
+1428,Georgia,GEO,2010,1.13
+1429,Ghana,GHA,2010,0.82
+1430,Gibraltar,GIB,2010,1.56
+1431,Guinea,GIN,2010,0.95
+1432,"Gambia, The",GMB,2010,0.81
+1433,Greece,GRC,2010,2.05
+1434,Grenada,GRD,2010,1.02
+1435,Greenland,GRL,2010,0.001
+1436,Guatemala,GTM,2010,0.95
+1437,Guyana,GUY,2010,0.93
+1438,High income,HIC,2010,1.59
+1439,"Hong Kong SAR, China",HKG,2010,1.92
+1440,Honduras,HND,2010,1.04
+1441,Heavily indebted poor countries (HIPC),HPC,2010,1.2
+1442,Croatia,HRV,2010,1.59
+1443,Haiti,HTI,2010,1.22
+1444,Hungary,HUN,2010,1.67
+1445,IBRD only,IBD,2010,1.095
+1446,IDA & IBRD total,IBT,2010,1.12
+1447,IDA total,IDA,2010,1.155
+1448,IDA blend,IDB,2010,1.235
+1449,Indonesia,IDN,2010,0.79
+1450,IDA only,IDX,2010,1.15
+1451,India,IND,2010,1.15
+1452,Ireland,IRL,2010,1.78
+1453,"Iran, Islamic Rep.",IRN,2010,0.09699999999999999
+1454,Iraq,IRQ,2010,0.78
+1455,Iceland,ISL,2010,1.71
+1456,Israel,ISR,2010,1.85
+1457,Italy,ITA,2010,1.87
+1458,Jamaica,JAM,2010,0.98
+1459,Jordan,JOR,2010,1.04
+1460,Japan,JPN,2010,1.6
+1461,Kazakhstan,KAZ,2010,0.71
+1462,Kenya,KEN,2010,1.33
+1463,Kyrgyz Republic,KGZ,2010,0.85
+1464,Cambodia,KHM,2010,1.15
+1465,"Korea, Rep.",KOR,2010,1.52
+1466,Kuwait,KWT,2010,0.23
+1467,Latin America & Caribbean (excluding high income),LAC,2010,1.065
+1468,Lao PDR,LAO,2010,1.26
+1469,Lebanon,LBN,2010,1.13
+1470,Liberia,LBR,2010,0.98
+1471,Libya,LBY,2010,0.17
+1472,Latin America & Caribbean,LCN,2010,1.065
+1473,Least developed countries: UN classification,LDC,2010,1.18
+1474,Low income,LIC,2010,1.3
+1475,Liechtenstein,LIE,2010,1.66
+1476,Sri Lanka,LKA,2010,1.19
+1477,Lower middle income,LMC,2010,1.075
+1478,Low & middle income,LMY,2010,1.11
+1479,Lesotho,LSO,2010,0.97
+1480,Late-demographic dividend,LTE,2010,1.2
+1481,Lithuania,LTU,2010,1.59
+1482,Luxembourg,LUX,2010,1.55
+1483,Latvia,LVA,2010,1.48
+1484,Morocco,MAR,2010,1.23
+1485,Monaco,MCO,2010,1.92
+1486,Moldova,MDA,2010,1.21
+1487,Madagascar,MDG,2010,1.52
+1488,Maldives,MDV,2010,0.84
+1489,Middle East & North Africa,MEA,2010,0.48
+1490,Mexico,MEX,2010,0.81
+1491,Middle income,MIC,2010,1.09
+1492,North Macedonia,MKD,2010,1.52
+1493,Mali,MLI,2010,1.42
+1494,Malta,MLT,2010,1.63
+1495,Myanmar,MMR,2010,0.8
+1496,Middle East & North Africa (excluding high income),MNA,2010,0.94
+1497,Montenegro,MNE,2010,1.62
+1498,Mongolia,MNG,2010,1.11
+1499,Mozambique,MOZ,2010,1.11
+1500,Mauritania,MRT,2010,1.16
+1501,Mauritius,MUS,2010,1.55
+1502,Malawi,MWI,2010,1.71
+1503,Malaysia,MYS,2010,0.59
+1504,North America,NAC,2010,0.985
+1505,Namibia,NAM,2010,1.06
+1506,Niger,NER,2010,1.07
+1507,Nigeria,NGA,2010,0.44
+1508,Nicaragua,NIC,2010,1.09
+1509,Netherlands,NLD,2010,2.13
+1510,Norway,NOR,2010,2.12
+1511,Nepal,NPL,2010,1.18
+1512,New Zealand,NZL,2010,1.47
+1513,OECD members,OED,2010,1.67
+1514,Oman,OMN,2010,0.31
+1515,Other small states,OSS,2010,1.24
+1516,Pakistan,PAK,2010,0.86
+1517,Panama,PAN,2010,0.85
+1518,Peru,PER,2010,1.41
+1519,Philippines,PHL,2010,1.05
+1520,Papua New Guinea,PNG,2010,1.02
+1521,Poland,POL,2010,1.57
+1522,Pre-demographic dividend,PRE,2010,1.275
+1523,"Korea, Dem. People's Rep.",PRK,2010,0.8
+1524,Portugal,PRT,2010,1.85
+1525,Paraguay,PRY,2010,1.28
+1526,West Bank and Gaza,PSE,2010,1.71
+1527,Post-demographic dividend,PST,2010,1.63
+1528,Qatar,QAT,2010,0.19
+1529,Romania,ROU,2010,1.46
+1530,Russian Federation,RUS,2010,0.84
+1531,Rwanda,RWA,2010,1.63
+1532,South Asia,SAS,2010,1.12
+1533,Saudi Arabia,SAU,2010,0.16
+1534,Sudan,SDN,2010,0.62
+1535,Senegal,SEN,2010,1.57
+1536,Singapore,SGP,2010,1.42
+1537,Sierra Leone,SLE,2010,0.94
+1538,El Salvador,SLV,2010,0.92
+1539,Somalia,SOM,2010,1.31
+1540,Serbia,SRB,2010,1.5
+1541,Sub-Saharan Africa (excluding high income),SSA,2010,1.245
+1542,South Sudan,SSD,2010,1.5
+1543,Sub-Saharan Africa,SSF,2010,1.245
+1544,Small states,SST,2010,1.08
+1545,Suriname,SUR,2010,1.14
+1546,Slovak Republic,SVK,2010,1.7
+1547,Slovenia,SVN,2010,1.67
+1548,Sweden,SWE,2010,1.87
+1549,Eswatini,SWZ,2010,1.07
+1550,Syrian Arab Republic,SYR,2010,0.96
+1551,Chad,TCD,2010,1.32
+1552,East Asia & Pacific (IDA & IBRD countries),TEA,2010,1.11
+1553,Europe & Central Asia (IDA & IBRD countries),TEC,2010,1.21
+1554,Togo,TGO,2010,1.18
+1555,Thailand,THA,2010,1.41
+1556,Tajikistan,TJK,2010,1.02
+1557,Turkmenistan,TKM,2010,0.22
+1558,Latin America & the Caribbean (IDA & IBRD countries),TLA,2010,1.03
+1559,Timor-Leste,TLS,2010,1.4
+1560,Middle East & North Africa (IDA & IBRD countries),TMN,2010,0.86
+1561,South Asia (IDA & IBRD),TSA,2010,1.12
+1562,Sub-Saharan Africa (IDA & IBRD countries),TSS,2010,1.245
+1563,Trinidad and Tobago,TTO,2010,0.4
+1564,Tunisia,TUN,2010,0.94
+1565,Turkiye,TUR,2010,2.52
+1566,Tanzania,TZA,2010,1.22
+1567,Uganda,UGA,2010,1.42
+1568,Ukraine,UKR,2010,1.01
+1569,Upper middle income,UMC,2010,1.13
+1570,Uruguay,URY,2010,1.49
+1571,United States,USA,2010,0.76
+1572,Uzbekistan,UZB,2010,0.92
+1573,"Venezuela, RB",VEN,2010,0.023
+1574,British Virgin Islands,VGB,2010,1.25
+1575,Vietnam,VNM,2010,0.88
+1576,World,WLD,2010,1.22
+1577,Kosovo,XKX,2010,1.63
+1578,"Yemen, Rep.",YEM,2010,0.35
+1579,South Africa,ZAF,2010,1.19
+1580,Zambia,ZMB,2010,1.66
+1581,Zimbabwe,ZWE,2010,1.29
+1582,Aruba,ABW,2012,1.4
+1583,Africa Eastern and Southern,AFE,2012,1.47
+1584,Afghanistan,AFG,2012,1.28
+1585,Africa Western and Central,AFW,2012,1.17
+1586,Angola,AGO,2012,0.63
+1587,Albania,ALB,2012,1.81
+1588,Andorra,AND,2012,1.67
+1589,Arab World,ARB,2012,0.58
+1590,United Arab Emirates,ARE,2012,0.47
+1591,Argentina,ARG,2012,1.46
+1592,Armenia,ARM,2012,1.25
+1593,Australia,AUS,2012,1.39
+1594,Austria,AUT,2012,1.81
+1595,Azerbaijan,AZE,2012,0.76
+1596,Burundi,BDI,2012,1.47
+1597,Belgium,BEL,2012,2.09
+1598,Benin,BEN,2012,1.24
+1599,Burkina Faso,BFA,2012,1.43
+1600,Bangladesh,BGD,2012,1.15
+1601,Bulgaria,BGR,2012,1.69
+1602,Bahrain,BHR,2012,0.27
+1603,"Bahamas, The",BHS,2012,0.94
+1604,Bosnia and Herzegovina,BIH,2012,1.59
+1605,Belarus,BLR,2012,0.88
+1606,Belize,BLZ,2012,1.44
+1607,Bolivia,BOL,2012,0.7
+1608,Brazil,BRA,2012,1.39
+1609,Barbados,BRB,2012,1.341
+1610,Brunei Darussalam,BRN,2012,0.43
+1611,Bhutan,BTN,2012,1.19
+1612,Botswana,BWA,2012,1.23
+1613,Central African Republic,CAF,2012,1.71
+1614,Canada,CAN,2012,1.32
+1615,Central Europe and the Baltics,CEB,2012,1.8
+1616,Switzerland,CHE,2012,1.88
+1617,Chile,CHL,2012,1.56
+1618,China,CHN,2012,1.37
+1619,Cote d'Ivoire,CIV,2012,1.51
+1620,Cameroon,CMR,2012,1.1
+1621,"Congo, Dem. Rep.",COD,2012,1.48
+1622,"Congo, Rep.",COG,2012,1.15
+1623,Colombia,COL,2012,1.28
+1624,Cabo Verde,CPV,2012,2.3
+1625,Costa Rica,CRI,2012,1.57
+1626,Caribbean small states,CSS,2012,1.112
+1627,Cuba,CUB,2012,1.4
+1628,Cyprus,CYP,2012,1.77
+1629,Czech Republic,CZE,2012,1.93
+1630,Germany,DEU,2012,1.96
+1631,Djibouti,DJI,2012,1.75
+1632,Denmark,DNK,2012,2.02
+1633,Dominican Republic,DOM,2012,1.58
+1634,Algeria,DZA,2012,0.29
+1635,East Asia & Pacific (excluding high income),EAP,2012,1.31
+1636,Early-demographic dividend,EAR,2012,1.24
+1637,East Asia & Pacific,EAS,2012,1.36
+1638,Europe & Central Asia (excluding high income),ECA,2012,1.385
+1639,Europe & Central Asia,ECS,2012,1.805
+1640,Ecuador,ECU,2012,0.58
+1641,"Egypt, Arab Rep.",EGY,2012,0.45
+1642,Euro area,EMU,2012,1.92
+1643,Eritrea,ERI,2012,2.49
+1644,Spain,ESP,2012,1.75
+1645,Estonia,EST,2012,1.76
+1646,Ethiopia,ETH,2012,1.05
+1647,European Union,EUU,2012,1.91
+1648,Fragile and conflict affected situations,FCS,2012,1.25
+1649,Finland,FIN,2012,2.08
+1650,Fiji,FJI,2012,1.41
+1651,France,FRA,2012,1.91
+1652,Gabon,GAB,2012,1.04
+1653,United Kingdom,GBR,2012,2.17
+1654,Georgia,GEO,2012,1.34
+1655,Ghana,GHA,2012,0.92
+1656,Gibraltar,GIB,2012,1.75
+1657,Guinea,GIN,2012,1.34
+1658,"Gambia, The",GMB,2012,1.11
+1659,Greece,GRC,2012,2.06
+1660,Grenada,GRD,2012,1.4
+1661,Greenland,GRL,2012,0.001
+1662,Guatemala,GTM,2012,1.14
+1663,Guyana,GUY,2012,1.08
+1664,High income,HIC,2012,1.83
+1665,"Hong Kong SAR, China",HKG,2012,2.16
+1666,Honduras,HND,2012,1.25
+1667,Heavily indebted poor countries (HIPC),HPC,2012,1.28
+1668,Croatia,HRV,2012,1.77
+1669,Haiti,HTI,2012,1.25
+1670,Hungary,HUN,2012,1.84
+1671,IBRD only,IBD,2012,1.29
+1672,IDA & IBRD total,IBT,2012,1.295
+1673,IDA total,IDA,2012,1.32
+1674,IDA blend,IDB,2012,1.37
+1675,Indonesia,IDN,2012,0.47
+1676,IDA only,IDX,2012,1.31
+1677,India,IND,2012,1.25
+1678,Ireland,IRL,2012,2.02
+1679,"Iran, Islamic Rep.",IRN,2012,0.33
+1680,Iraq,IRQ,2012,0.56
+1681,Iceland,ISL,2012,1.99
+1682,Israel,ISR,2012,2.01
+1683,Italy,ITA,2012,2.28
+1684,Jamaica,JAM,2012,1.2
+1685,Jordan,JOR,2012,1.44
+1686,Japan,JPN,2012,2.0
+1687,Kazakhstan,KAZ,2012,1.01
+1688,Kenya,KEN,2012,1.37
+1689,Kyrgyz Republic,KGZ,2012,0.89
+1690,Cambodia,KHM,2012,1.35
+1691,"Korea, Rep.",KOR,2012,1.8
+1692,Kuwait,KWT,2012,0.23
+1693,Latin America & Caribbean (excluding high income),LAC,2012,1.28
+1694,Lao PDR,LAO,2012,1.33
+1695,Lebanon,LBN,2012,1.11
+1696,Liberia,LBR,2012,1.17
+1697,Libya,LBY,2012,0.12
+1698,Latin America & Caribbean,LCN,2012,1.28
+1699,Least developed countries: UN classification,LDC,2012,1.34
+1700,Low income,LIC,2012,1.41
+1701,Liechtenstein,LIE,2012,1.88
+1702,Sri Lanka,LKA,2012,1.29
+1703,Lower middle income,LMC,2012,1.25
+1704,Low & middle income,LMY,2012,1.29
+1705,Lesotho,LSO,2012,1.24
+1706,Late-demographic dividend,LTE,2012,1.38
+1707,Lithuania,LTU,2012,1.83
+1708,Luxembourg,LUX,2012,1.64
+1709,Latvia,LVA,2012,1.8
+1710,Morocco,MAR,2012,1.42
+1711,Monaco,MCO,2012,2.23
+1712,Moldova,MDA,2012,1.42
+1713,Madagascar,MDG,2012,1.49
+1714,Maldives,MDV,2012,1.1
+1715,Middle East & North Africa,MEA,2012,0.525
+1716,Mexico,MEX,2012,0.86
+1717,Middle income,MIC,2012,1.285
+1718,North Macedonia,MKD,2012,1.75
+1719,Mali,MLI,2012,1.41
+1720,Malta,MLT,2012,1.92
+1721,Myanmar,MMR,2012,1.04
+1722,Middle East & North Africa (excluding high income),MNA,2012,0.86
+1723,Montenegro,MNE,2012,1.82
+1724,Mongolia,MNG,2012,1.29
+1725,Mozambique,MOZ,2012,1.58
+1726,Mauritania,MRT,2012,1.43
+1727,Mauritius,MUS,2012,1.65
+1728,Malawi,MWI,2012,1.93
+1729,Malaysia,MYS,2012,0.62
+1730,North America,NAC,2012,1.145
+1731,Namibia,NAM,2012,1.24
+1732,Niger,NER,2012,1.12
+1733,Nigeria,NGA,2012,0.62
+1734,Nicaragua,NIC,2012,1.23
+1735,Netherlands,NLD,2012,2.33
+1736,Norway,NOR,2012,2.53
+1737,Nepal,NPL,2012,1.44
+1738,New Zealand,NZL,2012,1.77
+1739,OECD members,OED,2012,1.895
+1740,Oman,OMN,2012,0.31
+1741,Other small states,OSS,2012,1.3
+1742,Pakistan,PAK,2012,1.14
+1743,Panama,PAN,2012,1.05
+1744,Peru,PER,2012,1.63
+1745,Philippines,PHL,2012,1.25
+1746,Papua New Guinea,PNG,2012,1.05
+1747,Poland,POL,2012,1.74
+1748,Pre-demographic dividend,PRE,2012,1.39
+1749,"Korea, Dem. People's Rep.",PRK,2012,0.88
+1750,Portugal,PRT,2012,2.15
+1751,Paraguay,PRY,2012,1.74
+1752,West Bank and Gaza,PSE,2012,1.87
+1753,Post-demographic dividend,PST,2012,1.86
+1754,Qatar,QAT,2012,0.27
+1755,Romania,ROU,2012,1.7
+1756,Russian Federation,RUS,2012,0.99
+1757,Rwanda,RWA,2012,1.73
+1758,South Asia,SAS,2012,1.22
+1759,Saudi Arabia,SAU,2012,0.16
+1760,Sudan,SDN,2012,0.63
+1761,Senegal,SEN,2012,1.72
+1762,Singapore,SGP,2012,1.68
+1763,Sierra Leone,SLE,2012,1.05
+1764,El Salvador,SLV,2012,1.26
+1765,Somalia,SOM,2012,1.34
+1766,Serbia,SRB,2012,1.78
+1767,Sub-Saharan Africa (excluding high income),SSA,2012,1.355
+1768,South Sudan,SSD,2012,1.97
+1769,Sub-Saharan Africa,SSF,2012,1.355
+1770,Small states,SST,2012,1.4
+1771,Suriname,SUR,2012,1.57
+1772,Slovak Republic,SVK,2012,1.98
+1773,Slovenia,SVN,2012,1.86
+1774,Sweden,SWE,2012,2.1
+1775,Eswatini,SWZ,2012,1.3
+1776,Syrian Arab Republic,SYR,2012,0.79
+1777,Chad,TCD,2012,0.95
+1778,East Asia & Pacific (IDA & IBRD countries),TEA,2012,1.31
+1779,Europe & Central Asia (IDA & IBRD countries),TEC,2012,1.45
+1780,Togo,TGO,2012,1.16
+1781,Thailand,THA,2012,1.56
+1782,Tajikistan,TJK,2012,1.45
+1783,Turkmenistan,TKM,2012,0.22
+1784,Latin America & the Caribbean (IDA & IBRD countries),TLA,2012,1.27
+1785,Timor-Leste,TLS,2012,1.65
+1786,Middle East & North Africa (IDA & IBRD countries),TMN,2012,0.79
+1787,South Asia (IDA & IBRD),TSA,2012,1.22
+1788,Sub-Saharan Africa (IDA & IBRD countries),TSS,2012,1.355
+1789,Trinidad and Tobago,TTO,2012,0.43
+1790,Tunisia,TUN,2012,0.93
+1791,Turkiye,TUR,2012,2.54
+1792,Tanzania,TZA,2012,1.31
+1793,Uganda,UGA,2012,1.442
+1794,Ukraine,UKR,2012,1.35
+1795,Upper middle income,UMC,2012,1.395
+1796,Uruguay,URY,2012,1.97
+1797,United States,USA,2012,0.97
+1798,Uzbekistan,UZB,2012,1.02
+1799,"Venezuela, RB",VEN,2012,0.023
+1800,British Virgin Islands,VGB,2012,1.32
+1801,Vietnam,VNM,2012,1.15
+1802,World,WLD,2012,1.41
+1803,Kosovo,XKX,2012,1.65
+1804,"Yemen, Rep.",YEM,2012,0.58
+1805,South Africa,ZAF,2012,1.38
+1806,Zambia,ZMB,2012,1.48
+1807,Zimbabwe,ZWE,2012,1.52
+1808,Aruba,ABW,2014,1.23
+1809,Africa Eastern and Southern,AFE,2014,1.375
+1810,Afghanistan,AFG,2014,1.07
+1811,Africa Western and Central,AFW,2014,1.245
+1812,Angola,AGO,2014,0.76
+1813,Albania,ALB,2014,1.76
+1814,Andorra,AND,2014,1.51
+1815,Arab World,ARB,2014,0.825
+1816,United Arab Emirates,ARE,2014,0.47
+1817,Argentina,ARG,2014,1.52
+1818,Armenia,ARM,2014,1.3
+1819,Australia,AUS,2014,1.23
+1820,Austria,AUT,2014,1.6
+1821,Azerbaijan,AZE,2014,1.21
+1822,Burundi,BDI,2014,1.53
+1823,Belgium,BEL,2014,1.9
+1824,Benin,BEN,2014,1.03
+1825,Burkina Faso,BFA,2014,1.4
+1826,Bangladesh,BGD,2014,1.3
+1827,Bulgaria,BGR,2014,1.49
+1828,Bahrain,BHR,2014,0.325
+1829,"Bahamas, The",BHS,2014,1.05
+1830,Bosnia and Herzegovina,BIH,2014,1.51
+1831,Belarus,BLR,2014,1.06
+1832,Belize,BLZ,2014,1.37
+1833,Bolivia,BOL,2014,0.7
+1834,Brazil,BRA,2014,1.27
+1835,Barbados,BRB,2014,1.81
+1836,Brunei Darussalam,BRN,2014,0.41
+1837,Bhutan,BTN,2014,1.04
+1838,Botswana,BWA,2014,1.06
+1839,Central African Republic,CAF,2014,1.69
+1840,Canada,CAN,2014,1.17
+1841,Central Europe and the Baltics,CEB,2014,1.58
+1842,Switzerland,CHE,2014,1.74
+1843,Chile,CHL,2014,1.52
+1844,China,CHN,2014,1.17
+1845,Cote d'Ivoire,CIV,2014,1.42
+1846,Cameroon,CMR,2014,1.24
+1847,"Congo, Dem. Rep.",COD,2014,1.68
+1848,"Congo, Rep.",COG,2014,1.13
+1849,Colombia,COL,2014,1.08
+1850,Cabo Verde,CPV,2014,1.56
+1851,Costa Rica,CRI,2014,1.44
+1852,Caribbean small states,CSS,2014,1.29
+1853,Cuba,CUB,2014,1.4
+1854,Cyprus,CYP,2014,1.61
+1855,Czech Republic,CZE,2014,1.67
+1856,Germany,DEU,2014,1.8
+1857,Djibouti,DJI,2014,1.41
+1858,Denmark,DNK,2014,2.01
+1859,Dominican Republic,DOM,2014,1.41
+1860,Algeria,DZA,2014,0.27
+1861,East Asia & Pacific (excluding high income),EAP,2014,1.17
+1862,Early-demographic dividend,EAR,2014,1.14
+1863,East Asia & Pacific,EAS,2014,1.23
+1864,Europe & Central Asia (excluding high income),ECA,2014,1.27
+1865,Europe & Central Asia,ECS,2014,1.6
+1866,Ecuador,ECU,2014,0.6
+1867,"Egypt, Arab Rep.",EGY,2014,0.88
+1868,Euro area,EMU,2014,1.79
+1869,Eritrea,ERI,2014,3.33
+1870,Spain,ESP,2014,1.63
+1871,Estonia,EST,2014,1.46
+1872,Ethiopia,ETH,2014,0.99
+1873,European Union,EUU,2014,1.77
+1874,Fragile and conflict affected situations,FCS,2014,1.21
+1875,Finland,FIN,2014,1.89
+1876,Fiji,FJI,2014,1.34
+1877,France,FRA,2014,1.79
+1878,Gabon,GAB,2014,1.02
+1879,United Kingdom,GBR,2014,1.92
+1880,Georgia,GEO,2014,1.24
+1881,Ghana,GHA,2014,1.06
+1882,Gibraltar,GIB,2014,1.63
+1883,Guinea,GIN,2014,1.45
+1884,"Gambia, The",GMB,2014,1.37
+1885,Greece,GRC,2014,1.98
+1886,Grenada,GRD,2014,1.31
+1887,Greenland,GRL,2014,0.001
+1888,Guatemala,GTM,2014,1.01
+1889,Guyana,GUY,2014,1.15
+1890,High income,HIC,2014,1.645
+1891,"Hong Kong SAR, China",HKG,2014,2.06
+1892,Honduras,HND,2014,1.2
+1893,Heavily indebted poor countries (HIPC),HPC,2014,1.29
+1894,Croatia,HRV,2014,1.66
+1895,Haiti,HTI,2014,1.16
+1896,Hungary,HUN,2014,1.58
+1897,IBRD only,IBD,2014,1.17
+1898,IDA & IBRD total,IBT,2014,1.24
+1899,IDA total,IDA,2014,1.305
+1900,IDA blend,IDB,2014,1.225
+1901,Indonesia,IDN,2014,0.93
+1902,IDA only,IDX,2014,1.33
+1903,India,IND,2014,1.1
+1904,Ireland,IRL,2014,1.92
+1905,"Iran, Islamic Rep.",IRN,2014,0.374
+1906,Iraq,IRQ,2014,0.43
+1907,Iceland,ISL,2014,1.85
+1908,Israel,ISR,2014,1.88
+1909,Italy,ITA,2014,2.14
+1910,Jamaica,JAM,2014,1.14
+1911,Jordan,JOR,2014,1.27
+1912,Japan,JPN,2014,1.38
+1913,Kazakhstan,KAZ,2014,0.81
+1914,Kenya,KEN,2014,1.21
+1915,Kyrgyz Republic,KGZ,2014,0.94
+1916,Cambodia,KHM,2014,1.34
+1917,"Korea, Rep.",KOR,2014,1.55
+1918,Kuwait,KWT,2014,0.22
+1919,Latin America & Caribbean (excluding high income),LAC,2014,1.2
+1920,Lao PDR,LAO,2014,1.4
+1921,Lebanon,LBN,2014,0.96
+1922,Liberia,LBR,2014,0.91
+1923,Libya,LBY,2014,0.14
+1924,Latin America & Caribbean,LCN,2014,1.2
+1925,Least developed countries: UN classification,LDC,2014,1.34
+1926,Low income,LIC,2014,1.385
+1927,Liechtenstein,LIE,2014,1.74
+1928,Sri Lanka,LKA,2014,1.27
+1929,Lower middle income,LMC,2014,1.14
+1930,Low & middle income,LMY,2014,1.225
+1931,Lesotho,LSO,2014,1.03
+1932,Late-demographic dividend,LTE,2014,1.27
+1933,Lithuania,LTU,2014,1.57
+1934,Luxembourg,LUX,2014,1.52
+1935,Latvia,LVA,2014,1.48
+1936,Morocco,MAR,2014,1.38
+1937,Monaco,MCO,2014,2.0
+1938,Moldova,MDA,2014,1.21
+1939,Madagascar,MDG,2014,1.35
+1940,Maldives,MDV,2014,1.63
+1941,Middle East & North Africa,MEA,2014,0.83
+1942,Mexico,MEX,2014,1.03
+1943,Middle income,MIC,2014,1.205
+1944,North Macedonia,MKD,2014,1.49
+1945,Mali,MLI,2014,1.47
+1946,Malta,MLT,2014,1.8
+1947,Myanmar,MMR,2014,1.14
+1948,Middle East & North Africa (excluding high income),MNA,2014,0.895
+1949,Montenegro,MNE,2014,1.6
+1950,Mongolia,MNG,2014,1.01
+1951,Mozambique,MOZ,2014,1.55
+1952,Mauritania,MRT,2014,1.53
+1953,Mauritius,MUS,2014,1.65
+1954,Malawi,MWI,2014,1.78
+1955,Malaysia,MYS,2014,0.68
+1956,North America,NAC,2014,0.965
+1957,Namibia,NAM,2014,1.08
+1958,Niger,NER,2014,1.09
+1959,Nigeria,NGA,2014,0.56
+1960,Nicaragua,NIC,2014,1.18
+1961,Netherlands,NLD,2014,2.15
+1962,Norway,NOR,2014,2.27
+1963,Nepal,NPL,2014,1.31
+1964,New Zealand,NZL,2014,1.71
+1965,OECD members,OED,2014,1.725
+1966,Oman,OMN,2014,0.31
+1967,Other small states,OSS,2014,1.37
+1968,Pakistan,PAK,2014,0.94
+1969,Panama,PAN,2014,0.96
+1970,Peru,PER,2014,1.46
+1971,Philippines,PHL,2014,1.05
+1972,Papua New Guinea,PNG,2014,1.36
+1973,Poland,POL,2014,1.42
+1974,Pre-demographic dividend,PRE,2014,1.35
+1975,"Korea, Dem. People's Rep.",PRK,2014,0.94
+1976,Portugal,PRT,2014,1.89
+1977,Paraguay,PRY,2014,1.59
+1978,West Bank and Gaza,PSE,2014,1.77
+1979,Post-demographic dividend,PST,2014,1.69
+1980,Qatar,QAT,2014,0.23
+1981,Romania,ROU,2014,1.59
+1982,Russian Federation,RUS,2014,0.81
+1983,Rwanda,RWA,2014,1.41
+1984,South Asia,SAS,2014,1.185
+1985,Saudi Arabia,SAU,2014,0.16
+1986,Sudan,SDN,2014,0.82
+1987,Senegal,SEN,2014,1.7
+1988,Singapore,SGP,2014,1.58
+1989,Sierra Leone,SLE,2014,1.04
+1990,El Salvador,SLV,2014,1.12
+1991,Somalia,SOM,2014,1.8
+1992,Serbia,SRB,2014,1.55
+1993,Sub-Saharan Africa (excluding high income),SSA,2014,1.32
+1994,South Sudan,SSD,2014,1.98
+1995,Sub-Saharan Africa,SSF,2014,1.32
+1996,Small states,SST,2014,1.32
+1997,Suriname,SUR,2014,1.29
+1998,Slovak Republic,SVK,2014,1.77
+1999,Slovenia,SVN,2014,1.78
+2000,Sweden,SWE,2014,1.82
+2001,Eswatini,SWZ,2014,1.14
+2002,Syrian Arab Republic,SYR,2014,0.83
+2003,Chad,TCD,2014,0.9
+2004,East Asia & Pacific (IDA & IBRD countries),TEA,2014,1.17
+2005,Europe & Central Asia (IDA & IBRD countries),TEC,2014,1.32
+2006,Togo,TGO,2014,1.25
+2007,Thailand,THA,2014,1.29
+2008,Tajikistan,TJK,2014,1.32
+2009,Turkmenistan,TKM,2014,0.22
+2010,Latin America & the Caribbean (IDA & IBRD countries),TLA,2014,1.19
+2011,Timor-Leste,TLS,2014,1.17
+2012,Middle East & North Africa (IDA & IBRD countries),TMN,2014,0.88
+2013,South Asia (IDA & IBRD),TSA,2014,1.185
+2014,Sub-Saharan Africa (IDA & IBRD countries),TSS,2014,1.32
+2015,Trinidad and Tobago,TTO,2014,0.47
+2016,Tunisia,TUN,2014,0.91
+2017,Turkiye,TUR,2014,2.06
+2018,Tanzania,TZA,2014,1.29
+2019,Uganda,UGA,2014,1.4
+2020,Ukraine,UKR,2014,1.17
+2021,Upper middle income,UMC,2014,1.29
+2022,Uruguay,URY,2014,1.8
+2023,United States,USA,2014,0.76
+2024,Uzbekistan,UZB,2014,1.02
+2025,"Venezuela, RB",VEN,2014,0.015
+2026,British Virgin Islands,VGB,2014,1.81
+2027,Vietnam,VNM,2014,1.04
+2028,World,WLD,2014,1.34
+2029,Kosovo,XKX,2014,1.54
+2030,"Yemen, Rep.",YEM,2014,0.7
+2031,South Africa,ZAF,2014,1.19
+2032,Zambia,ZMB,2014,1.68
+2033,Zimbabwe,ZWE,2014,1.56
+2034,Aruba,ABW,2016,1.12
+2035,Africa Eastern and Southern,AFE,2016,0.95
+2036,Afghanistan,AFG,2016,0.7
+2037,Africa Western and Central,AFW,2016,0.95
+2038,Angola,AGO,2016,0.97
+2039,Albania,ALB,2016,1.36
+2040,Andorra,AND,2016,1.2309999999999999
+2041,Arab World,ARB,2016,0.67
+2042,United Arab Emirates,ARE,2016,0.49
+2043,Argentina,ARG,2016,1.1
+2044,Armenia,ARM,2016,0.77
+2045,Australia,AUS,2016,0.93
+2046,Austria,AUT,2016,1.2
+2047,Azerbaijan,AZE,2016,0.56
+2048,Burundi,BDI,2016,1.21
+2049,Belgium,BEL,2016,1.43
+2050,Benin,BEN,2016,0.72
+2051,Burkina Faso,BFA,2016,0.98
+2052,Bangladesh,BGD,2016,1.12
+2053,Bulgaria,BGR,2016,1.11
+2054,Bahrain,BHR,2016,0.43
+2055,"Bahamas, The",BHS,2016,0.92
+2056,Bosnia and Herzegovina,BIH,2016,1.05
+2057,Belarus,BLR,2016,0.6
+2058,Belize,BLZ,2016,1.13
+2059,Bolivia,BOL,2016,0.71
+2060,Brazil,BRA,2016,1.02
+2061,Barbados,BRB,2016,1.71
+2062,Brunei Darussalam,BRN,2016,0.37
+2063,Bhutan,BTN,2016,0.98
+2064,Botswana,BWA,2016,0.71
+2065,Central African Republic,CAF,2016,1.41
+2066,Canada,CAN,2016,0.81
+2067,Central Europe and the Baltics,CEB,2016,1.16
+2068,Switzerland,CHE,2016,1.45
+2069,Chile,CHL,2016,1.03
+2070,China,CHN,2016,0.96
+2071,Cote d'Ivoire,CIV,2016,0.93
+2072,Cameroon,CMR,2016,1.03
+2073,"Congo, Dem. Rep.",COD,2016,1.49
+2074,"Congo, Rep.",COG,2016,0.97
+2075,Colombia,COL,2016,0.68
+2076,Cabo Verde,CPV,2016,1.02
+2077,Costa Rica,CRI,2016,0.98
+2078,Caribbean small states,CSS,2016,1.3119999999999998
+2079,Cuba,CUB,2016,1.021
+2080,Cyprus,CYP,2016,1.23
+2081,Czech Republic,CZE,2016,1.17
+2082,Germany,DEU,2016,1.39
+2083,Djibouti,DJI,2016,1.32
+2084,Denmark,DNK,2016,1.55
+2085,Dominican Republic,DOM,2016,1.07
+2086,Algeria,DZA,2016,0.28
+2087,East Asia & Pacific (excluding high income),EAP,2016,0.82
+2088,Early-demographic dividend,EAR,2016,0.91
+2089,East Asia & Pacific,EAS,2016,0.9
+2090,Europe & Central Asia (excluding high income),ECA,2016,0.815
+2091,Europe & Central Asia,ECS,2016,1.18
+2092,Ecuador,ECU,2016,0.61
+2093,"Egypt, Arab Rep.",EGY,2016,0.4
+2094,Euro area,EMU,2016,1.36
+2095,Eritrea,ERI,2016,2.0
+2096,Spain,ESP,2016,1.26
+2097,Estonia,EST,2016,1.14
+2098,Ethiopia,ETH,2016,0.75
+2099,European Union,EUU,2016,1.32
+2100,Fragile and conflict affected situations,FCS,2016,0.9
+2101,Finland,FIN,2016,1.45
+2102,Fiji,FJI,2016,0.82
+2103,France,FRA,2016,1.39
+2104,Gabon,GAB,2016,0.92
+2105,United Kingdom,GBR,2016,1.46
+2106,Georgia,GEO,2016,0.76
+2107,Ghana,GHA,2016,0.92
+2108,Gibraltar,GIB,2016,1.26
+2109,Guinea,GIN,2016,0.9
+2110,"Gambia, The",GMB,2016,1.18
+2111,Greece,GRC,2016,1.54
+2112,Grenada,GRD,2016,1.12
+2113,Greenland,GRL,2016,0.001
+2114,Guatemala,GTM,2016,0.79
+2115,Guyana,GUY,2016,0.9
+2116,High income,HIC,2016,1.225
+2117,"Hong Kong SAR, China",HKG,2016,1.86
+2118,Honduras,HND,2016,0.98
+2119,Heavily indebted poor countries (HIPC),HPC,2016,0.96
+2120,Croatia,HRV,2016,1.26
+2121,Haiti,HTI,2016,0.81
+2122,Hungary,HUN,2016,1.18
+2123,IBRD only,IBD,2016,0.83
+2124,IDA & IBRD total,IBT,2016,0.92
+2125,IDA total,IDA,2016,0.95
+2126,IDA blend,IDB,2016,1.02
+2127,Indonesia,IDN,2016,0.63
+2128,IDA only,IDX,2016,0.93
+2129,India,IND,2016,0.97
+2130,Ireland,IRL,2016,1.37
+2131,"Iran, Islamic Rep.",IRN,2016,0.39899999999999997
+2132,Iraq,IRQ,2016,0.61
+2133,Iceland,ISL,2016,1.69
+2134,Israel,ISR,2016,1.57
+2135,Italy,ITA,2016,1.61
+2136,Jamaica,JAM,2016,1.11
+2137,Jordan,JOR,2016,1.1
+2138,Japan,JPN,2016,1.06
+2139,Kazakhstan,KAZ,2016,0.42
+2140,Kenya,KEN,2016,0.95
+2141,Kyrgyz Republic,KGZ,2016,0.56
+2142,Cambodia,KHM,2016,0.9
+2143,"Korea, Rep.",KOR,2016,1.22
+2144,Kuwait,KWT,2016,0.35
+2145,Latin America & Caribbean (excluding high income),LAC,2016,0.98
+2146,Lao PDR,LAO,2016,0.93
+2147,Lebanon,LBN,2016,0.74
+2148,Liberia,LBR,2016,0.8
+2149,Libya,LBY,2016,0.11
+2150,Latin America & Caribbean,LCN,2016,0.92
+2151,Least developed countries: UN classification,LDC,2016,0.96
+2152,Low income,LIC,2016,0.965
+2153,Liechtenstein,LIE,2016,1.21
+2154,Sri Lanka,LKA,2016,0.88
+2155,Lower middle income,LMC,2016,0.905
+2156,Low & middle income,LMY,2016,0.92
+2157,Lesotho,LSO,2016,0.7
+2158,Late-demographic dividend,LTE,2016,0.88
+2159,Lithuania,LTU,2016,1.16
+2160,Luxembourg,LUX,2016,1.19
+2161,Latvia,LVA,2016,1.16
+2162,Morocco,MAR,2016,0.99
+2163,Monaco,MCO,2016,1.88
+2164,Moldova,MDA,2016,0.8
+2165,Madagascar,MDG,2016,1.11
+2166,Maldives,MDV,2016,1.01
+2167,Middle East & North Africa,MEA,2016,0.55
+2168,Mexico,MEX,2016,0.73
+2169,Middle income,MIC,2016,0.91
+2170,North Macedonia,MKD,2016,1.11
+2171,Mali,MLI,2016,1.12
+2172,Malta,MLT,2016,1.36
+2173,Myanmar,MMR,2016,0.54
+2174,Middle East & North Africa (excluding high income),MNA,2016,0.735
+2175,Montenegro,MNE,2016,1.16
+2176,Mongolia,MNG,2016,0.72
+2177,Mozambique,MOZ,2016,0.65
+2178,Mauritania,MRT,2016,1.13
+2179,Mauritius,MUS,2016,1.12
+2180,Malawi,MWI,2016,1.15
+2181,Malaysia,MYS,2016,0.45
+2182,North America,NAC,2016,0.76
+2183,Namibia,NAM,2016,0.76
+2184,Niger,NER,2016,0.88
+2185,Nigeria,NGA,2016,0.46
+2186,Nicaragua,NIC,2016,0.91
+2187,Netherlands,NLD,2016,1.68
+2188,Norway,NOR,2016,1.78
+2189,Nepal,NPL,2016,0.91
+2190,New Zealand,NZL,2016,1.4
+2191,OECD members,OED,2016,1.32
+2192,Oman,OMN,2016,0.45
+2193,Other small states,OSS,2016,1.02
+2194,Pakistan,PAK,2016,0.79
+2195,Panama,PAN,2016,0.74
+2196,Peru,PER,2016,0.99
+2197,Philippines,PHL,2016,0.86
+2198,Papua New Guinea,PNG,2016,1.2
+2199,Poland,POL,2016,1.07
+2200,Pre-demographic dividend,PRE,2016,0.97
+2201,"Korea, Dem. People's Rep.",PRK,2016,0.58
+2202,Portugal,PRT,2016,1.54
+2203,Paraguay,PRY,2016,1.04
+2204,West Bank and Gaza,PSE,2016,1.54
+2205,Post-demographic dividend,PST,2016,1.29
+2206,Qatar,QAT,2016,0.4
+2207,Romania,ROU,2016,1.16
+2208,Russian Federation,RUS,2016,0.59
+2209,Rwanda,RWA,2016,1.17
+2210,South Asia,SAS,2016,0.91
+2211,Saudi Arabia,SAU,2016,0.24
+2212,Sudan,SDN,2016,0.95
+2213,Senegal,SEN,2016,1.14
+2214,Singapore,SGP,2016,1.25
+2215,Sierra Leone,SLE,2016,1.08
+2216,El Salvador,SLV,2016,0.83
+2217,Somalia,SOM,2016,1.41
+2218,Serbia,SRB,2016,1.16
+2219,Sub-Saharan Africa (excluding high income),SSA,2016,0.95
+2220,South Sudan,SSD,2016,0.28
+2221,Sub-Saharan Africa,SSF,2016,0.95
+2222,Small states,SST,2016,1.0
+2223,Suriname,SUR,2016,1.021
+2224,Slovak Republic,SVK,2016,1.32
+2225,Slovenia,SVN,2016,1.32
+2226,Sweden,SWE,2016,1.42
+2227,Eswatini,SWZ,2016,0.77
+2228,Syrian Arab Republic,SYR,2016,0.5429999999999999
+2229,Chad,TCD,2016,0.78
+2230,East Asia & Pacific (IDA & IBRD countries),TEA,2016,0.84
+2231,Europe & Central Asia (IDA & IBRD countries),TEC,2016,1.03
+2232,Togo,TGO,2016,0.71
+2233,Thailand,THA,2016,0.71
+2234,Tajikistan,TJK,2016,0.71
+2235,Turkmenistan,TKM,2016,0.29
+2236,Latin America & the Caribbean (IDA & IBRD countries),TLA,2016,0.945
+2237,Timor-Leste,TLS,2016,1.1
+2238,Middle East & North Africa (IDA & IBRD countries),TMN,2016,0.73
+2239,South Asia (IDA & IBRD),TSA,2016,0.91
+2240,Sub-Saharan Africa (IDA & IBRD countries),TSS,2016,0.95
+2241,Trinidad and Tobago,TTO,2016,0.54
+2242,Tunisia,TUN,2016,0.73
+2243,Turkiye,TUR,2016,1.42
+2244,Tanzania,TZA,2016,0.87
+2245,Uganda,UGA,2016,0.94
+2246,Ukraine,UKR,2016,0.83
+2247,Upper middle income,UMC,2016,0.92
+2248,Uruguay,URY,2016,1.5
+2249,United States,USA,2016,0.71
+2250,Uzbekistan,UZB,2016,1.03
+2251,"Venezuela, RB",VEN,2016,0.01
+2252,British Virgin Islands,VGB,2016,1.55
+2253,Vietnam,VNM,2016,0.8
+2254,World,WLD,2016,0.97
+2255,Kosovo,XKX,2016,1.11
+2256,"Yemen, Rep.",YEM,2016,0.92
+2257,South Africa,ZAF,2016,0.92
+2258,Zambia,ZMB,2016,1.4
+2259,Zimbabwe,ZWE,2016,1.34
+2260,Aruba,ABW,2018,1.26
+2261,Africa Eastern and Southern,AFE,2018,1.21
+2262,Afghanistan,AFG,2018,0.99
+2263,Africa Western and Central,AFW,2018,1.06
+2264,Angola,AGO,2018,0.8
+2265,Albania,ALB,2018,1.585
+2266,Andorra,AND,2018,1.4509999999999998
+2267,Arab World,ARB,2018,0.625
+2268,United Arab Emirates,ARE,2018,0.48
+2269,Argentina,ARG,2018,1.28
+2270,Armenia,ARM,2018,1.01
+2271,Australia,AUS,2018,1.16
+2272,Austria,AUT,2018,1.505
+2273,Azerbaijan,AZE,2018,0.66
+2274,Burundi,BDI,2018,1.34
+2275,Belgium,BEL,2018,1.76
+2276,Benin,BEN,2018,0.98
+2277,Burkina Faso,BFA,2018,1.205
+2278,Bangladesh,BGD,2018,1.135
+2279,Bulgaria,BGR,2018,1.4
+2280,Bahrain,BHR,2018,0.35
+2281,"Bahamas, The",BHS,2018,0.46
+2282,Bosnia and Herzegovina,BIH,2018,1.32
+2283,Belarus,BLR,2018,0.74
+2284,Belize,BLZ,2018,1.285
+2285,Bolivia,BOL,2018,0.705
+2286,Brazil,BRA,2018,1.205
+2287,Barbados,BRB,2018,1.526
+2288,Brunei Darussalam,BRN,2018,0.4
+2289,Bhutan,BTN,2018,1.085
+2290,Botswana,BWA,2018,0.97
+2291,Central African Republic,CAF,2018,1.56
+2292,Canada,CAN,2018,1.065
+2293,Central Europe and the Baltics,CEB,2018,1.48
+2294,Switzerland,CHE,2018,1.665
+2295,Chile,CHL,2018,1.295
+2296,China,CHN,2018,1.165
+2297,Cote d'Ivoire,CIV,2018,1.22
+2298,Cameroon,CMR,2018,1.065
+2299,"Congo, Dem. Rep.",COD,2018,1.485
+2300,"Congo, Rep.",COG,2018,1.06
+2301,Colombia,COL,2018,0.98
+2302,Cabo Verde,CPV,2018,1.66
+2303,Costa Rica,CRI,2018,1.275
+2304,Caribbean small states,CSS,2018,1.212
+2305,Cuba,CUB,2018,1.2109999999999999
+2306,Cyprus,CYP,2018,1.5
+2307,Czech Republic,CZE,2018,1.55
+2308,Germany,DEU,2018,1.675
+2309,Djibouti,DJI,2018,1.535
+2310,Denmark,DNK,2018,1.785
+2311,Dominican Republic,DOM,2018,1.325
+2312,Algeria,DZA,2018,0.285
+2313,East Asia & Pacific (excluding high income),EAP,2018,1.065
+2314,Early-demographic dividend,EAR,2018,1.075
+2315,East Asia & Pacific,EAS,2018,1.13
+2316,Europe & Central Asia (excluding high income),ECA,2018,1.1
+2317,Europe & Central Asia,ECS,2018,1.493
+2318,Ecuador,ECU,2018,0.595
+2319,"Egypt, Arab Rep.",EGY,2018,0.425
+2320,Euro area,EMU,2018,1.64
+2321,Eritrea,ERI,2018,2.245
+2322,Spain,ESP,2018,1.505
+2323,Estonia,EST,2018,1.45
+2324,Ethiopia,ETH,2018,0.9
+2325,European Union,EUU,2018,1.615
+2326,Fragile and conflict affected situations,FCS,2018,1.075
+2327,Finland,FIN,2018,1.765
+2328,Fiji,FJI,2018,1.115
+2329,France,FRA,2018,1.65
+2330,Gabon,GAB,2018,0.98
+2331,United Kingdom,GBR,2018,1.815
+2332,Georgia,GEO,2018,1.05
+2333,Ghana,GHA,2018,0.92
+2334,Gibraltar,GIB,2018,1.505
+2335,Guinea,GIN,2018,1.12
+2336,"Gambia, The",GMB,2018,0.59
+2337,Greece,GRC,2018,1.8
+2338,Grenada,GRD,2018,1.26
+2339,Greenland,GRL,2018,0.001
+2340,Guatemala,GTM,2018,0.965
+2341,Guyana,GUY,2018,0.99
+2342,High income,HIC,2018,1.528
+2343,"Hong Kong SAR, China",HKG,2018,2.01
+2344,Honduras,HND,2018,1.115
+2345,Heavily indebted poor countries (HIPC),HPC,2018,1.12
+2346,Croatia,HRV,2018,1.515
+2347,Haiti,HTI,2018,1.03
+2348,Hungary,HUN,2018,1.51
+2349,IBRD only,IBD,2018,1.06
+2350,IDA & IBRD total,IBT,2018,1.1079999999999999
+2351,IDA total,IDA,2018,1.135
+2352,IDA blend,IDB,2018,1.195
+2353,Indonesia,IDN,2018,0.55
+2354,IDA only,IDX,2018,1.12
+2355,India,IND,2018,1.11
+2356,Ireland,IRL,2018,1.695
+2357,"Iran, Islamic Rep.",IRN,2018,0.365
+2358,Iraq,IRQ,2018,0.305
+2359,Iceland,ISL,2018,1.84
+2360,Israel,ISR,2018,1.79
+2361,Italy,ITA,2018,1.945
+2362,Jamaica,JAM,2018,1.155
+2363,Jordan,JOR,2018,1.27
+2364,Japan,JPN,2018,1.53
+2365,Kazakhstan,KAZ,2018,0.715
+2366,Kenya,KEN,2018,1.16
+2367,Kyrgyz Republic,KGZ,2018,0.725
+2368,Cambodia,KHM,2018,1.125
+2369,"Korea, Rep.",KOR,2018,1.51
+2370,Kuwait,KWT,2018,0.29
+2371,Latin America & Caribbean (excluding high income),LAC,2018,1.13
+2372,Lao PDR,LAO,2018,1.13
+2373,Lebanon,LBN,2018,0.925
+2374,Liberia,LBR,2018,0.985
+2375,Libya,LBY,2018,0.115
+2376,Latin America & Caribbean,LCN,2018,1.1
+2377,Least developed countries: UN classification,LDC,2018,1.15
+2378,Low income,LIC,2018,1.188
+2379,Liechtenstein,LIE,2018,0.94
+2380,Sri Lanka,LKA,2018,1.085
+2381,Lower middle income,LMC,2018,1.078
+2382,Low & middle income,LMY,2018,1.105
+2383,Lesotho,LSO,2018,0.97
+2384,Late-demographic dividend,LTE,2018,1.13
+2385,Lithuania,LTU,2018,1.495
+2386,Luxembourg,LUX,2018,1.415
+2387,Latvia,LVA,2018,1.48
+2388,Morocco,MAR,2018,1.205
+2389,Monaco,MCO,2018,1.115
+2390,Moldova,MDA,2018,1.11
+2391,Madagascar,MDG,2018,1.3
+2392,Maldives,MDV,2018,0.55
+2393,Middle East & North Africa,MEA,2018,0.5379999999999999
+2394,Mexico,MEX,2018,0.795
+2395,Middle income,MIC,2018,1.0979999999999999
+2396,North Macedonia,MKD,2018,1.43
+2397,Mali,MLI,2018,1.265
+2398,Malta,MLT,2018,1.64
+2399,Myanmar,MMR,2018,0.79
+2400,Middle East & North Africa (excluding high income),MNA,2018,0.7979999999999999
+2401,Montenegro,MNE,2018,1.49
+2402,Mongolia,MNG,2018,1.005
+2403,Mozambique,MOZ,2018,1.115
+2404,Mauritania,MRT,2018,1.28
+2405,Mauritius,MUS,2018,1.385
+2406,Malawi,MWI,2018,1.54
+2407,Malaysia,MYS,2018,0.535
+2408,North America,NAC,2018,0.953
+2409,Namibia,NAM,2018,1.0
+2410,Niger,NER,2018,1.0
+2411,Nigeria,NGA,2018,0.54
+2412,Nicaragua,NIC,2018,1.07
+2413,Netherlands,NLD,2018,2.005
+2414,Norway,NOR,2018,2.155
+2415,Nepal,NPL,2018,1.175
+2416,New Zealand,NZL,2018,1.585
+2417,OECD members,OED,2018,1.608
+2418,Oman,OMN,2018,0.38
+2419,Other small states,OSS,2018,1.16
+2420,Pakistan,PAK,2018,0.965
+2421,Panama,PAN,2018,0.895
+2422,Peru,PER,2018,1.31
+2423,Philippines,PHL,2018,1.055
+2424,Papua New Guinea,PNG,2018,0.98
+2425,Poland,POL,2018,1.405
+2426,Pre-demographic dividend,PRE,2018,1.18
+2427,"Korea, Dem. People's Rep.",PRK,2018,0.29
+2428,Portugal,PRT,2018,1.845
+2429,Paraguay,PRY,2018,1.39
+2430,West Bank and Gaza,PSE,2018,1.705
+2431,Post-demographic dividend,PST,2018,1.575
+2432,Qatar,QAT,2018,0.335
+2433,Romania,ROU,2018,1.43
+2434,Russian Federation,RUS,2018,0.79
+2435,Rwanda,RWA,2018,1.45
+2436,South Asia,SAS,2018,1.065
+2437,Saudi Arabia,SAU,2018,0.2
+2438,Sudan,SDN,2018,0.79
+2439,Senegal,SEN,2018,1.43
+2440,Singapore,SGP,2018,1.465
+2441,Sierra Leone,SLE,2018,1.065
+2442,El Salvador,SLV,2018,1.045
+2443,Somalia,SOM,2018,0.705
+2444,Serbia,SRB,2018,1.47
+2445,Sub-Saharan Africa (excluding high income),SSA,2018,1.153
+2446,South Sudan,SSD,2018,1.125
+2447,Sub-Saharan Africa,SSF,2018,1.153
+2448,Small states,SST,2018,1.2
+2449,Suriname,SUR,2018,1.296
+2450,Slovak Republic,SVK,2018,1.65
+2451,Slovenia,SVN,2018,1.59
+2452,Sweden,SWE,2018,1.76
+2453,Eswatini,SWZ,2018,1.035
+2454,Syrian Arab Republic,SYR,2018,0.667
+2455,Chad,TCD,2018,0.865
+2456,East Asia & Pacific (IDA & IBRD countries),TEA,2018,1.075
+2457,Europe & Central Asia (IDA & IBRD countries),TEC,2018,1.24
+2458,Togo,TGO,2018,0.935
+2459,Thailand,THA,2018,1.135
+2460,Tajikistan,TJK,2018,1.08
+2461,Turkmenistan,TKM,2018,0.255
+2462,Latin America & the Caribbean (IDA & IBRD countries),TLA,2018,1.1079999999999999
+2463,Timor-Leste,TLS,2018,1.375
+2464,Middle East & North Africa (IDA & IBRD countries),TMN,2018,0.76
+2465,South Asia (IDA & IBRD),TSA,2018,1.065
+2466,Sub-Saharan Africa (IDA & IBRD countries),TSS,2018,1.153
+2467,Trinidad and Tobago,TTO,2018,0.485
+2468,Tunisia,TUN,2018,0.83
+2469,Turkiye,TUR,2018,1.98
+2470,Tanzania,TZA,2018,1.09
+2471,Uganda,UGA,2018,1.1909999999999998
+2472,Ukraine,UKR,2018,1.09
+2473,Upper middle income,UMC,2018,1.158
+2474,Uruguay,URY,2018,1.735
+2475,United States,USA,2018,0.84
+2476,Uzbekistan,UZB,2018,1.025
+2477,"Venezuela, RB",VEN,2018,0.012
+2478,British Virgin Islands,VGB,2018,1.82
+2479,Vietnam,VNM,2018,0.975
+2480,World,WLD,2018,1.19
+2481,Kosovo,XKX,2018,1.38
+2482,"Yemen, Rep.",YEM,2018,0.75
+2483,South Africa,ZAF,2018,1.15
+2484,Zambia,ZMB,2018,1.44
+2485,Zimbabwe,ZWE,2018,1.43
+2486,Aruba,ABW,2020,1.245
+2487,Africa Eastern and Southern,AFE,2020,1.2930000000000001
+2488,Afghanistan,AFG,2020,1.03
+2489,Africa Western and Central,AFW,2020,1.153
+2490,Angola,AGO,2020,0.78
+2491,Albania,ALB,2020,1.673
+2492,Andorra,AND,2020,1.48
+2493,Arab World,ARB,2020,0.725
+2494,United Arab Emirates,ARE,2020,0.475
+2495,Argentina,ARG,2020,1.4
+2496,Armenia,ARM,2020,1.155
+2497,Australia,AUS,2020,1.195
+2498,Austria,AUT,2020,1.5530000000000002
+2499,Azerbaijan,AZE,2020,0.935
+2500,Burundi,BDI,2020,1.435
+2501,Belgium,BEL,2020,1.83
+2502,Benin,BEN,2020,1.005
+2503,Burkina Faso,BFA,2020,1.3030000000000002
+2504,Bangladesh,BGD,2020,1.218
+2505,Bulgaria,BGR,2020,1.445
+2506,Bahrain,BHR,2020,0.33799999999999997
+2507,"Bahamas, The",BHS,2020,0.755
+2508,Bosnia and Herzegovina,BIH,2020,1.415
+2509,Belarus,BLR,2020,0.9
+2510,Belize,BLZ,2020,1.328
+2511,Bolivia,BOL,2020,0.703
+2512,Brazil,BRA,2020,1.238
+2513,Barbados,BRB,2020,1.6680000000000001
+2514,Brunei Darussalam,BRN,2020,0.405
+2515,Bhutan,BTN,2020,1.063
+2516,Botswana,BWA,2020,1.015
+2517,Central African Republic,CAF,2020,1.625
+2518,Canada,CAN,2020,1.1179999999999999
+2519,Central Europe and the Baltics,CEB,2020,1.53
+2520,Switzerland,CHE,2020,1.703
+2521,Chile,CHL,2020,1.4080000000000001
+2522,China,CHN,2020,1.168
+2523,Cote d'Ivoire,CIV,2020,1.32
+2524,Cameroon,CMR,2020,1.153
+2525,"Congo, Dem. Rep.",COD,2020,1.5830000000000002
+2526,"Congo, Rep.",COG,2020,1.095
+2527,Colombia,COL,2020,1.03
+2528,Cabo Verde,CPV,2020,1.61
+2529,Costa Rica,CRI,2020,1.358
+2530,Caribbean small states,CSS,2020,1.251
+2531,Cuba,CUB,2020,1.305
+2532,Cyprus,CYP,2020,1.555
+2533,Czech Republic,CZE,2020,1.61
+2534,Germany,DEU,2020,1.7380000000000002
+2535,Djibouti,DJI,2020,1.473
+2536,Denmark,DNK,2020,1.8980000000000001
+2537,Dominican Republic,DOM,2020,1.368
+2538,Algeria,DZA,2020,0.278
+2539,East Asia & Pacific (excluding high income),EAP,2020,1.1179999999999999
+2540,Early-demographic dividend,EAR,2020,1.1079999999999999
+2541,East Asia & Pacific,EAS,2020,1.18
+2542,Europe & Central Asia (excluding high income),ECA,2020,1.185
+2543,Europe & Central Asia,ECS,2020,1.546
+2544,Ecuador,ECU,2020,0.598
+2545,"Egypt, Arab Rep.",EGY,2020,0.653
+2546,Euro area,EMU,2020,1.715
+2547,Eritrea,ERI,2020,2.7880000000000003
+2548,Spain,ESP,2020,1.568
+2549,Estonia,EST,2020,1.455
+2550,Ethiopia,ETH,2020,0.945
+2551,European Union,EUU,2020,1.693
+2552,Fragile and conflict affected situations,FCS,2020,1.143
+2553,Finland,FIN,2020,1.828
+2554,Fiji,FJI,2020,1.228
+2555,France,FRA,2020,1.72
+2556,Gabon,GAB,2020,1.0
+2557,United Kingdom,GBR,2020,1.868
+2558,Georgia,GEO,2020,1.145
+2559,Ghana,GHA,2020,0.99
+2560,Gibraltar,GIB,2020,1.568
+2561,Guinea,GIN,2020,1.285
+2562,"Gambia, The",GMB,2020,0.98
+2563,Greece,GRC,2020,1.89
+2564,Grenada,GRD,2020,0.63
+2565,Greenland,GRL,2020,0.001
+2566,Guatemala,GTM,2020,0.988
+2567,Guyana,GUY,2020,1.07
+2568,High income,HIC,2020,1.5859999999999999
+2569,"Hong Kong SAR, China",HKG,2020,2.035
+2570,Honduras,HND,2020,1.158
+2571,Heavily indebted poor countries (HIPC),HPC,2020,1.205
+2572,Croatia,HRV,2020,1.588
+2573,Haiti,HTI,2020,1.095
+2574,Hungary,HUN,2020,1.545
+2575,IBRD only,IBD,2020,1.115
+2576,IDA & IBRD total,IBT,2020,1.1740000000000002
+2577,IDA total,IDA,2020,1.22
+2578,IDA blend,IDB,2020,1.21
+2579,Indonesia,IDN,2020,0.74
+2580,IDA only,IDX,2020,1.225
+2581,India,IND,2020,1.105
+2582,Ireland,IRL,2020,1.808
+2583,"Iran, Islamic Rep.",IRN,2020,0.369
+2584,Iraq,IRQ,2020,0.368
+2585,Iceland,ISL,2020,1.845
+2586,Israel,ISR,2020,1.835
+2587,Italy,ITA,2020,2.043
+2588,Jamaica,JAM,2020,1.148
+2589,Jordan,JOR,2020,1.27
+2590,Japan,JPN,2020,1.455
+2591,Kazakhstan,KAZ,2020,0.763
+2592,Kenya,KEN,2020,1.185
+2593,Kyrgyz Republic,KGZ,2020,0.833
+2594,Cambodia,KHM,2020,1.2329999999999999
+2595,"Korea, Rep.",KOR,2020,1.53
+2596,Kuwait,KWT,2020,0.255
+2597,Latin America & Caribbean (excluding high income),LAC,2020,1.165
+2598,Lao PDR,LAO,2020,1.265
+2599,Lebanon,LBN,2020,0.943
+2600,Liberia,LBR,2020,0.948
+2601,Libya,LBY,2020,0.057999999999999996
+2602,Latin America & Caribbean,LCN,2020,1.15
+2603,Least developed countries: UN classification,LDC,2020,1.245
+2604,Low income,LIC,2020,1.286
+2605,Liechtenstein,LIE,2020,1.34
+2606,Sri Lanka,LKA,2020,1.178
+2607,Lower middle income,LMC,2020,1.109
+2608,Low & middle income,LMY,2020,1.165
+2609,Lesotho,LSO,2020,1.0
+2610,Late-demographic dividend,LTE,2020,1.2
+2611,Lithuania,LTU,2020,1.5330000000000001
+2612,Luxembourg,LUX,2020,1.4680000000000002
+2613,Latvia,LVA,2020,1.48
+2614,Morocco,MAR,2020,1.2930000000000001
+2615,Monaco,MCO,2020,1.558
+2616,Moldova,MDA,2020,1.16
+2617,Madagascar,MDG,2020,1.325
+2618,Maldives,MDV,2020,1.09
+2619,Middle East & North Africa,MEA,2020,0.684
+2620,Mexico,MEX,2020,0.9129999999999999
+2621,Middle income,MIC,2020,1.151
+2622,North Macedonia,MKD,2020,1.46
+2623,Mali,MLI,2020,1.368
+2624,Malta,MLT,2020,1.72
+2625,Myanmar,MMR,2020,0.965
+2626,Middle East & North Africa (excluding high income),MNA,2020,0.846
+2627,Montenegro,MNE,2020,1.545
+2628,Mongolia,MNG,2020,1.008
+2629,Mozambique,MOZ,2020,1.3330000000000002
+2630,Mauritania,MRT,2020,1.405
+2631,Mauritius,MUS,2020,1.518
+2632,Malawi,MWI,2020,1.66
+2633,Malaysia,MYS,2020,0.608
+2634,North America,NAC,2020,0.9590000000000001
+2635,Namibia,NAM,2020,1.04
+2636,Niger,NER,2020,1.045
+2637,Nigeria,NGA,2020,0.55
+2638,Nicaragua,NIC,2020,1.125
+2639,Netherlands,NLD,2020,2.0780000000000003
+2640,Norway,NOR,2020,2.213
+2641,Nepal,NPL,2020,1.2429999999999999
+2642,New Zealand,NZL,2020,1.6480000000000001
+2643,OECD members,OED,2020,1.666
+2644,Oman,OMN,2020,0.345
+2645,Other small states,OSS,2020,1.265
+2646,Pakistan,PAK,2020,0.953
+2647,Panama,PAN,2020,0.9279999999999999
+2648,Peru,PER,2020,1.385
+2649,Philippines,PHL,2020,1.053
+2650,Papua New Guinea,PNG,2020,0.68
+2651,Poland,POL,2020,1.413
+2652,Pre-demographic dividend,PRE,2020,1.265
+2653,"Korea, Dem. People's Rep.",PRK,2020,0.615
+2654,Portugal,PRT,2020,1.868
+2655,Paraguay,PRY,2020,1.49
+2656,West Bank and Gaza,PSE,2020,1.7380000000000002
+2657,Post-demographic dividend,PST,2020,1.633
+2658,Qatar,QAT,2020,0.28300000000000003
+2659,Romania,ROU,2020,1.51
+2660,Russian Federation,RUS,2020,0.8
+2661,Rwanda,RWA,2020,1.43
+2662,South Asia,SAS,2020,1.125
+2663,Saudi Arabia,SAU,2020,0.18
+2664,Sudan,SDN,2020,0.805
+2665,Senegal,SEN,2020,1.565
+2666,Singapore,SGP,2020,1.5230000000000001
+2667,Sierra Leone,SLE,2020,1.053
+2668,El Salvador,SLV,2020,1.083
+2669,Somalia,SOM,2020,0.353
+2670,Serbia,SRB,2020,1.51
+2671,Sub-Saharan Africa (excluding high income),SSA,2020,1.236
+2672,South Sudan,SSD,2020,1.5530000000000002
+2673,Sub-Saharan Africa,SSF,2020,1.236
+2674,Small states,SST,2020,1.26
+2675,Suriname,SUR,2020,1.2930000000000001
+2676,Slovak Republic,SVK,2020,1.71
+2677,Slovenia,SVN,2020,1.685
+2678,Sweden,SWE,2020,1.79
+2679,Eswatini,SWZ,2020,1.088
+2680,Syrian Arab Republic,SYR,2020,0.748
+2681,Chad,TCD,2020,0.883
+2682,East Asia & Pacific (IDA & IBRD countries),TEA,2020,1.123
+2683,Europe & Central Asia (IDA & IBRD countries),TEC,2020,1.28
+2684,Togo,TGO,2020,1.093
+2685,Thailand,THA,2020,1.213
+2686,Tajikistan,TJK,2020,1.2
+2687,Turkmenistan,TKM,2020,0.23800000000000002
+2688,Latin America & the Caribbean (IDA & IBRD countries),TLA,2020,1.149
+2689,Timor-Leste,TLS,2020,1.273
+2690,Middle East & North Africa (IDA & IBRD countries),TMN,2020,0.82
+2691,South Asia (IDA & IBRD),TSA,2020,1.125
+2692,Sub-Saharan Africa (IDA & IBRD countries),TSS,2020,1.236
+2693,Trinidad and Tobago,TTO,2020,0.478
+2694,Tunisia,TUN,2020,0.87
+2695,Turkiye,TUR,2020,2.02
+2696,Tanzania,TZA,2020,1.19
+2697,Uganda,UGA,2020,1.296
+2698,Ukraine,UKR,2020,1.13
+2699,Upper middle income,UMC,2020,1.224
+2700,Uruguay,URY,2020,1.768
+2701,United States,USA,2020,0.8
+2702,Uzbekistan,UZB,2020,1.023
+2703,"Venezuela, RB",VEN,2020,0.013000000000000001
+2704,British Virgin Islands,VGB,2020,1.815
+2705,Vietnam,VNM,2020,1.008
+2706,World,WLD,2020,1.265
+2707,Kosovo,XKX,2020,1.46
+2708,"Yemen, Rep.",YEM,2020,0.725
+2709,South Africa,ZAF,2020,1.17
+2710,Zambia,ZMB,2020,1.56
+2711,Zimbabwe,ZWE,2020,1.495

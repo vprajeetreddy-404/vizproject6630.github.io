@@ -1,0 +1,21 @@
+CS 6630
+Project Peer Feedback
+
+Group Members:
+1. Ahmed Al Hikmani
+2. Aniket Karna
+3. Prajeet Reddy Vakiti
+
+From – Umang Deepak Mishra, Isha Talegaonkar, Santhosh Natarajappa
+
+Comments from the other group:
+    • The overall idea is great and relevant to the current problems related to gas and petrol prices in all the countries.
+    • The project answers many good questions like the total global oil consumption, country-wise gas consumption.
+    • The world map is good to interpret the prices across the countries, but using a categorical scale would add more meaning.
+    • The map, the bar-graph and the line chart would be informative, if they are coordinated. The table however would seem redundant in your project.
+    • The prototypes have many interesting ideas and the project’s final design looks great.
+    • The idea of having different currencies in the drop-down would make it easier for people in different countries to understand the visualization.
+
+In my opinion, the feedback we got from the other group made us realize few of the shortcomings of our prototype. After receiving constructive feedback from the other group, we made a few changes to our original plan for the project. The table that we wanted to implemented from our prototype 3 is now removed as it would have been just another way of visualizing the same data and wouldn’t have added much value to the design. Also, we switched our scale from Continuous to Categorical. We were on the fence for this one initially but after receiving the feedback we got more inputs and made 
+
+This activity was very helpful in gauging the effectiveness of each of the components of the design and making subsequent changes to our visualization.
